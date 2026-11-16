@@ -1,0 +1,473 @@
+activate something|فعال کردن چیزی
+provider|ارائه‌دهنده
+answer|پاسخ
+charge; top up|شارژ کردن؛ افزایش اعتبار
+hurry|عجله کردن
+complain|شکایت کردن
+order|سفارش
+data allowance|حجم اینترنت
+enter something|وارد کردن چیزی
+record something|ثبت کردن چیزی
+one-off; unique|یک‌باره؛ منحصربه‌فرد
+beginner|مبتدی
+female beginner|مبتدی (زن)
+receive something|دریافت کردن چیزی
+landline network|شبکه تلفن ثابت
+activate; unlock|فعال کردن؛ باز کردن قفل
+basic fee|هزینه پایه
+valid|معتبر
+inexpensive; favourable|ارزان؛ مناسب
+credit balance|مانده اعتبار
+tradesman|پیشه‌ور
+female tradesperson|پیشه‌ور (زن)
+including|شامل
+inspection; check|بازرسی؛ بررسی
+delivery service|خدمات تحویل
+network|شبکه
+optimal|بهینه
+benefit from|بهره بردن از
+block something|مسدود کردن چیزی
+rate; plan|تعرفه؛ طرح
+send something|فرستادن چیزی
+contract|قرارداد
+contract term|مدت قرارداد
+deliver something|تحویل دادن چیزی
+recommend something|توصیه کردن چیزی
+completion; handling|انجام؛ رسیدگی
+grant; issue|اعطا کردن؛ صادر کردن
+reason|دلیل
+value-added tax (VAT)|مالیات بر ارزش افزوده
+net|خالص
+careful; thorough|دقیق؛ با دقت
+sum; total|مبلغ؛ مجموع
+signature|امضا
+payable|قابل پرداخت
+reliable|قابل اعتماد
+offer; quotation|پیشنهاد؛ پیشنهاد قیمت
+order; assignment|سفارش؛ مأموریت
+printout|نسخه چاپی
+thank someone|تشکر کردن از کسی
+gross|ناخالص
+in agreement|موافق
+annoyance; trouble|ناراحتی؛ دردسر
+item; article|کالا؛ مقاله
+confirm something|تأیید کردن چیزی
+complaint|شکایت
+faulty|خراب
+dirty|کثیف
+stain|لکه
+defect; deficiency|عیب؛ کمبود
+embarrassing|خجالت‌آور
+claim; product complaint|شکایت درباره کالا
+incomplete|ناقص
+suggestion|پیشنهاد
+send something back|پس فرستادن چیزی
+reset something|بازنشانی کردن چیزی
+misplace; relocate|جای چیزی را گم کردن؛ جابه‌جا کردن
+let someone finish speaking|اجازه دادن به کسی برای تمام کردن حرفش
+idiom; expression|اصطلاح؛ عبارت
+expectation|انتظار
+clarify something|روشن کردن چیزی
+confrontational|تقابلی
+be able to help with something|توانستن در کاری کمک کرد
+grant a discount|تخفیف دادن
+remain calm|آرام ماندن
+insufficient|ناکافی
+agreed|توافق‌شده
+imagine something|تصور کردن چیزی
+depend on|وابسته بودن به
+advice; consultation|مشاوره
+spend money on|پول خرج کردن برای
+delivery time|زمان تحویل
+opening hours|ساعات کار
+online purchase|خرید اینترنتی
+quality|کیفیت
+in stock|موجود در انبار
+goods|کالا
+stock; supply|ذخیره؛ موجودی
+intermediary; reseller|واسطه؛ فروشنده مجدد
+sales volume|حجم فروش
+(technical) plant; system|تأسیسات؛ سامانه فنی
+maintain a system|سرویس و نگهداری یک سامانه
+observe someone/something|مشاهده کردن کسی یا چیزی
+retail trade|خرده‌فروشی
+end customer|مصرف‌کننده نهایی
+female end customer|مصرف‌کننده نهایی (زن)
+develop something|توسعه دادن چیزی
+research and development|تحقیق و توسعه
+wholesale trade|عمده‌فروشی
+trade|تجارت
+manufacture|تولید کردن
+manufacturing|تولید
+parts manufacturer|تولیدکننده قطعات
+issue delivery notes|صادر کردن حواله‌های تحویل
+delivery|تحویل
+brand|برند
+in a commercial sense|در معنای تجاری
+measure; measurement|اندازه؛ اندازه‌گیری
+assemble something|مونتاژ کردن چیزی
+production|تولید
+invoice; bill|صورتحساب
+freight forwarding company|شرکت حمل‌ونقل بار
+transport|حمل‌ونقل
+packaging|بسته‌بندی
+dispatch; shipping|ارسال کالا
+analyse something|تحلیل کردن چیزی
+process; work on|پردازش کردن؛ کار کردن روی
+transport; promote someone|حمل کردن؛ ارتقای شغلی دادن به کسی
+look after someone/something|رسیدگی کردن به کسی یا چیزی
+industry; sector|صنعت؛ بخش
+catering industry|صنعت رستوران‌داری
+design something|طراحی کردن چیزی
+skilled trades; craft|پیشه‌وری؛ صنایع دستی
+IT industry|صنعت فناوری اطلاعات
+design; construct|طراحی کردن؛ ساختن
+check something|بررسی کردن چیزی
+advise customers|مشاوره دادن به مشتریان
+customer advisor|مشاور مشتریان
+female customer advisor|مشاور مشتریان (زن)
+laboratory|آزمایشگاه
+store something|انبار کردن چیزی
+warehouse worker|انباردار
+female warehouse worker|انباردار (زن)
+animal keeper|نگهدارنده حیوانات
+female animal keeper|نگهدارنده حیوانات (زن)
+transport and logistics|حمل‌ونقل و لجستیک
+distribution channel|کانال توزیع
+order goods|سفارش دادن کالا
+science and research|علم و پژوهش
+shape something into something|به چیزی شکل دیگری دادن
+set up something|برپا کردن چیزی
+convenience; comfort|راحتی؛ آسایش
+CO₂ emissions|انتشار دی‌اکسید کربن
+dealer; trader|تاجر؛ فروشنده
+female trader|تاجر (زن)
+type of material|نوع ماده
+environmental balance sheet|تراز زیست‌محیطی
+special request|درخواست ویژه
+look at something|نگاه کردن به چیزی
+everyday working life|زندگی روزمره کاری
+work intensity|شدت کار
+working life|زندگی شغلی
+world of work|دنیای کار
+have an effect on|تأثیر گذاشتن بر
+construction site|کارگاه ساختمانی
+occupational field|حوزه شغلی
+employee (male)|کارمند (مرد)
+employee (female)|کارمند (زن)
+acceleration|شتاب‌گیری
+cope with something|از عهده چیزی برآمدن
+challenge|چالش
+bricklayer|بنا
+female bricklayer|بنا (زن)
+route; distance|مسیر؛ فاصله
+fall by the wayside|نادیده گرفته شدن؛ از قافله عقب ماندن
+cancel an appointment|لغو کردن قرار
+meeting|دیدار
+be late|دیر کردن
+well-being|تندرستی؛ حال خوب
+time pressure|فشار زمانی
+department meeting|جلسه بخش
+coordinate with each other|هماهنگ کردن با یکدیگر
+entitlement; claim|حق؛ مطالبه
+be entitled to|حق چیزی را داشتن
+commute|مسیر رفت‌وآمد به محل کار
+working hours|ساعات کار
+Working Hours Act|قانون ساعات کار
+company shutdown period|دوره تعطیلی شرکت
+computer system|سامانه رایانه‌ای
+instruct in|آموزش دادن در زمینه
+compensatory rest day|روز استراحت جبرانی
+stipulate something|مقرر کردن چیزی
+case|مورد
+under no circumstances|به هیچ وجه
+time off in lieu|مرخصی جبرانی
+minimum holiday entitlement|حداقل مرخصی قانونی
+duty|وظیفه
+right; law|حق؛ قانون
+be right|حق داشتن؛ درست گفتن
+(legal) rule|قاعده قانونی
+shift work|کار شیفتی
+part-time work|کار پاره‌وقت
+overtime hour|ساعت اضافه‌کاری
+day of leave|روز مرخصی
+holiday period|دوره تعطیلات
+full-time work|کار تمام‌وقت
+weekend work|کار در آخر هفته
+deadline|مهلت نهایی
+script; screenplay|فیلم‌نامه
+draft; design|پیش‌نویس؛ طرح
+campaign|کارزار؛ کمپین
+cosmetics range|مجموعه محصولات آرایشی
+print medium|رسانه چاپی
+relevant|مرتبط؛ مهم
+senior manager|مدیر ارشد
+female senior manager|مدیر ارشد (زن)
+advertising film|فیلم تبلیغاتی
+advertising campaign|کمپین تبلیغاتی
+formal warning|اخطار رسمی
+labour court|دادگاه کار
+works council; council member|شورای کارکنان؛ عضو شورا
+company party|جشن شرکت
+document|مستند کردن
+heating technician|تکنسین گرمایش
+female heating technician|تکنسین گرمایش (زن)
+help|کمک
+ask for help|درخواست کمک کردن
+being late|دیر رسیدن
+understanding|درک
+be annoyed about|از چیزی ناراحت بودن
+everyday life|زندگی روزمره
+connection|اتصال
+possible application|کاربرد ممکن
+display|نمایشگر
+operating time|مدت کارکرد
+device|دستگاه
+download|بارگیری کردن
+install something|نصب کردن چیزی
+means of communication|وسیله ارتباطی
+powerful; efficient|قدرتمند؛ کارآمد
+mobile communications|ارتباطات تلفن همراه
+multifunctional|چندمنظوره
+satnav|دستگاه مسیریاب
+navigation device|دستگاه ناوبری
+without problems|بدون مشکل
+risk|خطر؛ ریسک
+decrease; sink|کاهش یافتن؛ غرق شدن
+keyboard|صفحه‌کلید
+available|در دسترس
+develop something further|توسعه بیشتر دادن به چیزی
+future|آینده
+in future|در آینده
+characteristic|ویژگی
+success|موفقیت
+be successful|موفق بودن
+interdisciplinary|میان‌رشته‌ای
+conversation and negotiation skills|مهارت‌های گفتگو و مذاکره
+intercultural|میان‌فرهنگی
+IT systems business specialist (female)|متخصص بازرگانی سامانه‌های فناوری اطلاعات (زن)
+IT systems business specialist (male)|متخصص بازرگانی سامانه‌های فناوری اطلاعات (مرد)
+soft skills|مهارت‌های نرم
+able to work in a team|توانای کار گروهی
+teamwork skills|مهارت کار گروهی
+survey|نظرسنجی
+probably; likely|احتمالاً؛ محتمل
+attach importance to|اهمیت دادن به
+knowledge management|مدیریت دانش
+reliability|قابلیت اعتماد
+make work easier|آسان‌تر کردن کار
+data|داده‌ها
+misuse data|سوءاستفاده از داده‌ها
+disadvantageous|زیان‌آور؛ نامطلوب
+paperless|بدون کاغذ
+social networks|شبکه‌های اجتماعی
+save; store|ذخیره کردن
+do without; give up|صرف‌نظر کردن از
+requirement|نیازمندی؛ الزام
+recognised training occupation|حرفه رسمی آموزش حرفه‌ای
+influence|تأثیر گذاشتن
+career prospect|چشم‌انداز شغلی
+digitalisation|دیجیتالی‌سازی
+workflow|روند کار
+automation|خودکارسازی
+introduce something|معرفی کردن؛ به کار گرفتن چیزی
+development|توسعه
+control something remotely|کنترل کردن چیزی از راه دور
+conveyor belt|نوار نقاله
+information technology|فناوری اطلاعات
+Internet of Things|اینترنت اشیا
+voice assistant|دستیار صوتی
+networking; interconnection|شبکه‌سازی؛ اتصال متقابل
+diverse|متنوع
+reception|پذیرش
+human resources department|بخش منابع انسانی
+canteen|غذاخوری کارکنان
+warehouse|انبار
+research|پژوهش
+female works council member|عضو شورای کارکنان (زن)
+company management|مدیریت شرکت
+financial accounting|حسابداری مالی
+induction; on-the-job training|آشنایی با کار؛ آموزش حین کار
+contact person (male)|شخص رابط (مرد)
+contact person (female)|شخص رابط (زن)
+break policy|مقررات زمان استراحت
+tour; walk around|بازدید؛ گشت
+pursue further training|ادامه آموزش حرفه‌ای
+experience|تجربه
+have experience with|تجربه داشتن در
+look forward to|مشتاقانه منتظر بودن
+be pleased about|از چیزی خوشحال بودن
+belong to|تعلق داشتن به
+it is about|موضوع درباره چیزی است
+have a conversation|گفتگو کردن
+be interested in|علاقه داشتن به
+invest in|سرمایه‌گذاری کردن در
+take place|برگزار شدن؛ رخ دادن
+convey; mediate; teach|انتقال دادن؛ میانجیگری کردن؛ آموزش دادن
+prerequisite|پیش‌شرط
+web page|صفحه وب
+minutes recording decisions|صورت‌جلسه تصمیمات
+meeting; discussion|جلسه؛ گفتگو
+team meeting|جلسه تیم
+summarise something|خلاصه کردن چیزی
+resolution; decision|مصوبه؛ تصمیم
+decision|تصمیم
+agreement|توافق
+agenda|دستور جلسه
+keyword; cue|کلیدواژه؛ سرنخ
+document something|مستند کردن چیزی
+record in minutes|ثبت کردن در صورت‌جلسه
+rule|قاعده
+usually|معمولاً
+participant (male)|شرکت‌کننده (مرد)
+participant (female)|شرکت‌کننده (زن)
+suggest something|پیشنهاد کردن چیزی
+doubt|تردید
+manage; accomplish something|از عهده چیزی برآمدن؛ انجام دادن
+remember something|به خاطر سپردن چیزی
+punctuality|وقت‌شناسی
+greeting|خوشامدگویی
+end of the working day|پایان روز کاری
+exciting|هیجان‌انگیز
+useful|مفید
+rush-hour traffic|ترافیک ساعات اوج
+usual; customary|معمول؛ مرسوم
+smile|لبخند زدن
+desired; welcome|مطلوب؛ خوشایند
+popular; well-liked|محبوب
+ generally|به طور کلی
+superior (male)|رئیس (مرد)
+superior (female)|رئیس (زن)
+say goodbye (to)|خداحافظی کردن با
+department|بخش
+employer (male)|کارفرما (مرد)
+employer (female)|کارفرما (زن)
+asylum procedure|روند پناهندگی
+vocational training|آموزش حرفه‌ای
+stand out; be noticed|جلب توجه کردن
+pass (an exam)|قبول شدن در امتحان
+career information centre|مرکز اطلاعات شغلی
+company; workplace|شرکت؛ محل کار
+apply for a job|درخواست کار دادن
+hire someone|استخدام کردن کسی
+e-learning|یادگیری الکترونیکی
+e-learning course|دوره آموزش الکترونیکی
+skilled worker (male)|کارگر ماهر (مرد)
+skilled worker (female)|کارگر ماهر (زن)
+forklift truck|لیفتراک
+get information|کسب اطلاعات کردن
+warehouse logistics|لجستیک انبار
+advise someone to do something|توصیه کردن کاری به کسی
+school-leaving qualification|مدرک پایان تحصیلات مدرسه
+rise; increase|افزایش یافتن
+take part in|شرکت کردن در
+turnover; revenue|گردش مالی؛ درآمد فروش
+retraining|بازآموزی شغلی
+further training|آموزش تکمیلی
+application; request|درخواست
+submit an application|ارائه درخواست
+residence permit|اجازه اقامت
+grow up|بزرگ شدن
+advisor (male)|مشاور (مرد)
+advisor (female)|مشاور (زن)
+employ someone|به کار گرفتن کسی
+business plan|طرح کسب‌وکار
+income|درآمد
+make a decision|تصمیم گرفتن
+starting a business|راه‌اندازی کسب‌وکار
+professional development course|دوره ارتقای حرفه‌ای
+take a professional development course|گذراندن دوره ارتقای حرفه‌ای
+found (a company)|تأسیس کردن شرکت
+approve a loan|تصویب وام
+kitchen assistant (male)|کمک‌آشپز (مرد)
+kitchen assistant (female)|کمک‌آشپز (زن)
+become self-employed|شروع کار مستقل
+self-employment; independence|خوداشتغالی؛ استقلال
+think over|فکر کردن درباره
+bear responsibility for|مسئولیت چیزی را بر عهده داشتن
+have something officially recognised|به رسمیت شناساندن چیزی
+vocational qualification|مدرک حرفه‌ای
+decide on something|تصمیم گرفتن درباره چیزی
+certificate; report|گواهی؛ کارنامه
+recognition|به رسمیت شناختن
+recognition procedure|روند تأیید مدارک
+work permit|اجازه کار
+qualified professional|نیروی متخصص
+competence; skill|شایستگی؛ مهارت
+cover costs|تقبل هزینه‌ها
+proof; evidence|مدرک؛ شواهد
+internship|کارآموزی
+qualification|صلاحیت حرفه‌ای
+regulated|مقررات‌گذاری‌شده
+compare something with|مقایسه کردن چیزی با
+posted notice|اطلاعیه نصب‌شده
+cover letter|نامه درخواست کار
+application process|روند درخواست کار
+impression|برداشت
+electrical company|شرکت برق
+expect|انتظار داشتن
+qualified staff|کارکنان متخصص
+error-free|بدون خطا
+unsolicited job application|درخواست کار بدون آگهی استخدام
+installation company|شرکت تأسیسات
+competition|رقابت
+temporary agency worker (male)|کارگر موقت از طریق آژانس (مرد)
+temporary agency worker (female)|کارگر موقت از طریق آژانس (زن)
+mission statement|بیانیه مأموریت
+current state of affairs|وضعیت کنونی
+confirm an appointment|تأیید قرار
+waiting time|زمان انتظار
+temporary employment agency|آژانس کاریابی موقت
+future; in future|آینده؛ در آینده
+worker; labour power|کارگر؛ نیروی کار
+employment relationship|رابطه استخدامی
+lend; borrow|قرض دادن؛ قرض گرفتن
+career counselling|مشاوره شغلی
+professional experience|تجربه حرفه‌ای
+employ; occupy|استخدام کردن؛ مشغول کردن
+employment; occupation|اشتغال؛ فعالیت
+permission; permit|اجازه؛ مجوز
+temporary agency work|کار موقت از طریق آژانس
+state; governmental|دولتی
+activity; work|فعالیت؛ کار
+arrange an appointment|تعیین قرار
+lend; award|قرض دادن؛ اعطا کردن
+placement; mediation|کاریابی؛ میانجیگری
+placement fee|هزینه کاریابی
+agricultural engineer (male)|مهندس کشاورزی (مرد)
+agricultural engineer (female)|مهندس کشاورزی (زن)
+work assignment; effort|مأموریت کاری؛ تلاش
+area; field|حوزه؛ زمینه
+willingness; readiness|تمایل؛ آمادگی
+place of assignment|محل مأموریت
+qualified by examination|دارای صلاحیت با قبولی در آزمون
+family business|کسب‌وکار خانوادگی
+IT specialist (male)|متخصص فناوری اطلاعات (مرد)
+IT specialist (female)|متخصص فناوری اطلاعات (زن)
+engineer (male)|مهندس (مرد)
+engineer (female)|مهندس (زن)
+innovative|نوآورانه
+career opportunity|فرصت شغلی
+communication skills|مهارت‌های ارتباطی
+customer service|خدمات مشتریان
+care worker|نیروی مراقبت
+care service|خدمات مراقبتی
+security employee (male)|مأمور امنیت (مرد)
+security employee (female)|مأمور امنیت (زن)
+team spirit|روحیه تیمی
+responsibility|مسئولیت
+salesperson (male)|فروشنده (مرد)
+salesperson (female)|فروشنده (زن)
+reinforcement; extra staff|تقویت؛ نیروی کمکی
+future prospect|چشم‌انداز آینده
+cooperation|همکاری
+responsible; in charge|مسئول
+construction project|پروژه ساختمانی
+assignment; deployment|مأموریت؛ به‌کارگیری
+consent|رضایت
+IT technician (male)|تکنسین فناوری اطلاعات (مرد)
+IT technician (female)|تکنسین فناوری اطلاعات (زن)
+cover for sick leave|جایگزینی در دوره بیماری
+intermediate school-leaving certificate|مدرک پایان دوره متوسطه رئال‌شوله آلمان
+holiday cover|جایگزینی در دوره مرخصی
+period of time|بازه زمانی

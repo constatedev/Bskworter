@@ -1,0 +1,144 @@
+@B1|Perfekt und Präteritum|Im Perfekt stehen haben/sein und Partizip II. Bewegung und Zustandswechsel bilden das Perfekt oft mit sein. Im Präteritum ändern sich die Verbformen.
+Gestern ___ ich die Rechnung bezahlt.|habe|bin|werde|Bezahlt ist das Partizip II von bezahlen; das Hilfsverb ist haben.
+Wir ___ letzte Woche nach Berlin gefahren.|sind|haben|werden|Fahren mit Ortswechsel bildet das Perfekt mit sein.
+Als Kind ___ sie jeden Tag im Garten.|spielte|gespielt|spiele|Spielte ist das Präteritum von spielen.
+Früher ___ er in einem kleinen Betrieb.|arbeitete|gearbeitet|arbeiten|Bei arbeiten steht im Präteritum -ete.
+Sie ist gestern spät nach Hause ___. (kommen)|gekommen|||Das Partizip II von kommen ist gekommen; es steht hier mit sein.
+@B1|Plusquamperfekt und Vorzeitigkeit|Das Plusquamperfekt (hatte/war + Partizip II) bezeichnet ein Ereignis vor einem anderen vergangenen Ereignis.
+Nachdem ich den Vertrag ___, begann ich zu arbeiten.|unterschrieben hatte|unterschrieben habe|unterschreiben werde|Die Unterschrift geschah vor dem Arbeitsbeginn: Plusquamperfekt im nachdem-Satz.
+Als wir ankamen, ___ der Zug schon abgefahren.|war|hatte|ist|Abfahren bildet das Plusquamperfekt mit war.
+Sie konnte zahlen, weil sie vorher Geld ___ hatte.|abgehoben|abheben|abhob|Hatte braucht das Partizip II abgehoben.
+Nachdem er gegessen hatte, ___ er ins Büro.|ging|gegangen|gehen|Das spätere Ereignis steht hier im Präteritum: ging.
+Bevor ich anrief, hatte ich die E-Mail schon ___. (lesen)|gelesen|||Das Plusquamperfekt von lesen lautet hatte gelesen.
+@B1|Modalverben und Ersatzformen|Modalverben verbinden sich mit einem Infinitiv ohne zu. Müssen bezeichnet Notwendigkeit; dürfen Erlaubnis; sollen oft einen Auftrag.
+Sie ___ heute zum Arzt gehen; sie hat hohes Fieber.|muss|darf|mag|Muss drückt hier die medizinische Notwendigkeit aus.
+Hier ist Rauchen verboten. Sie ___ hier nicht rauchen.|dürfen|müssen|sollen|Nicht dürfen bedeutet Verbot; nicht müssen bedeutet keine Notwendigkeit.
+Du ___ den Bericht nicht heute abgeben; morgen reicht auch.|musst|darfst|kannst|Nicht müssen: Es ist heute nicht notwendig.
+Der Chef sagt: Ich ___ die Kundin zurückrufen.|soll|darf|mag|Sollen gibt hier den Auftrag einer anderen Person wieder.
+Ich bin in der Lage, die Maschine zu bedienen. Ich ___ die Maschine bedienen.|kann|||In der Lage sein entspricht hier können.
+@B1|Satzbau und Verbposition|Im Hauptsatz steht das finite Verb an Position 2; im Nebensatz mit weil/dass/wenn steht es am Ende. Nach einem vorangestellten Nebensatz folgt das Hauptsatzverb.
+Morgen ___ ich den Kunden an.|rufe|ich rufe|anrufe|Morgen besetzt Position 1; rufe steht an Position 2.
+Ich bleibe zu Hause, weil ich krank ___.|bin|sein|bist|Im weil-Satz steht das finite Verb am Ende.
+Wenn die Sitzung endet, ___ wir nach Hause.|gehen|wir gehen|zu gehen|Der Nebensatz besetzt das Vorfeld; der Hauptsatz beginnt dann mit gehen.
+Ich weiß, dass er morgen ___ wird.|kommen|kommt|gekommen|Im Futur-Nebensatz steht kommen vor dem finiten Hilfsverb wird.
+Ergänze das letzte Wort: Ich denke, dass die Kollegin heute ___. (arbeiten, Präsens)|arbeitet|||Das finite Verb arbeitet steht am Ende des dass-Satzes.
+@B1|Kausale und konzessive Verbindungen|Weil/da nennen einen Grund; obwohl nennt einen Gegengrund. Deshalb und trotzdem sind Adverbien mit Verb an Position 2.
+Ich bin müde, ___ ich schlecht geschlafen habe.|weil|obwohl|damit|Schlechter Schlaf ist hier der Grund für die Müdigkeit.
+___ es regnet, gehen wir spazieren.|Obwohl|Weil|Damit|Regen ist ein Gegengrund zum Spaziergang: obwohl.
+Die Maschine ist defekt. Deshalb ___ wir sie nicht benutzen.|können|wir können|zu können|Nach deshalb steht das finite Verb können vor dem Subjekt.
+Er ist krank. ___ kommt er zur Arbeit.|Trotzdem|Deshalb|Damit|Trotzdem drückt den Gegensatz zur erwarteten Folge aus.
+Sie bleibt zu Hause, ___ sie krank ist. (Grund, Konjunktion)|weil~da|||Weil und da leiten einen kausalen Nebensatz mit Verb am Ende ein.
+@B1|Temporale Nebensätze|Als steht bei einmaligen Ereignissen in der Vergangenheit; wenn bei Wiederholungen oder Bedingungen. Seitdem, während und bis beschreiben zeitliche Beziehungen.
+___ ich gestern ankam, war das Büro leer.|Als|Wenn|Seitdem|Ein einmaliges Ereignis in der Vergangenheit verlangt als.
+Immer ___ ich Urlaub habe, fahre ich ans Meer.|wenn|als|nachdem|Immer wenn bezeichnet wiederholte Ereignisse.
+___ sie telefoniert, schreibt er eine E-Mail.|Während|Bevor|Nachdem|Während stellt hier zwei gleichzeitige Handlungen gegenüber.
+Warte bitte, ___ ich zurückkomme.|bis|seitdem|nachdem|Bis nennt den Endpunkt des Wartens.
+___ ich hier wohne, fahre ich mit dem Rad zur Arbeit. (Beginn in der Vergangenheit, bis heute)|Seitdem~Seit|||Seitdem (auch: seit) verbindet einen vergangenen Beginn mit einer bis heute geltenden Situation.
+@B1|Finalsätze: damit und um … zu|Um … zu ist bei gleichem handelnden Subjekt möglich. Damit kann unterschiedliche Subjekte verbinden.
+Ich lerne Deutsch, ___ bessere Berufschancen zu haben.|um|damit|ohne|Beide Handlungen haben dasselbe Subjekt ich: um … zu.
+Ich erkläre es langsam, ___ alle mich verstehen.|damit|um|weil|Ich und alle sind verschiedene Subjekte; damit braucht einen finiten Nebensatz.
+Sie spart Geld, um ein Auto ___ kaufen.|zu|für|damit|Der finale Infinitiv lautet um … zu kaufen.
+Wir schreiben die Regeln auf, damit niemand sie ___.|vergisst|vergessen|zu vergessen|Nach damit steht das finite Verb vergisst am Satzende.
+Ergänze: Ich gehe früh los, ___ pünktlich anzukommen.|um|||Bei identischem Subjekt steht um … zu; anzukommen hat zu zwischen Präfix und Stamm.
+@B1|Infinitiv mit zu|Nach vielen Verben und Ausdrücken steht zu + Infinitiv. Bei trennbaren Verben steht zu zwischen Präfix und Stamm. Nach Modalverben steht kein zu.
+Ich habe vor, morgen früher ___.|anzufangen|zu anfangen|anfangen zu|Anfangen ist trennbar: anzufangen.
+Es ist wichtig, den Vertrag genau ___.|zu lesen|lesen|liest|Nach es ist wichtig folgt hier ein Infinitiv mit zu.
+Sie versucht, den Fehler ___.|zu korrigieren|zukorrigieren|korrigiert|Bei nicht trennbaren Verben steht zu als eigenes Wort vor dem Infinitiv.
+Ich kann morgen früher ___.|kommen|zu kommen|kommt|Nach können steht der Infinitiv ohne zu.
+Er hat vergessen, das Formular ___. (ausfüllen)|auszufüllen|||Ausfüllen ist trennbar: aus + zu + füllen.
+@B1|Relativsätze|Das Genus und der Numerus des Relativpronomens richten sich nach dem Bezugswort; der Kasus nach seiner Funktion im Relativsatz.
+Die Frau, ___ hier arbeitet, ist Ingenieurin.|die|der|den|Frau ist feminin; das Relativpronomen ist Subjekt: die.
+Der Mann, ___ ich angerufen habe, ist mein Chef.|den|der|dem|Anrufen verlangt Akkusativ: den.
+Die Kollegin, ___ ich helfe, ist neu.|der|die|den|Helfen verlangt Dativ; feminin Dativ lautet der.
+Das ist der Kunde, mit ___ ich gesprochen habe.|dem|den|der|Mit verlangt Dativ; Kunde ist maskulin: dem.
+Das sind die Leute, mit ___ wir arbeiten.|denen|||Mit verlangt Dativ; im Plural lautet das Relativpronomen denen.
+@B1|Adjektivdeklination|Adjektivendungen hängen von Artikel, Genus, Numerus und Kasus ab. Nach einem bestimmten Artikel haben sie meist -e oder -en.
+Ich suche einen ___ Arbeitsplatz.|sicheren|sicherer|sichere|Maskulin Akkusativ nach einen: sicheren.
+Die ___ Kollegin erklärt alles.|neue|neuen|neuer|Feminin Nominativ nach die: neue.
+Wir arbeiten mit einem ___ Computer.|neuen|neuer|neues|Mit verlangt Dativ; nach einem steht neuen.
+___ Kaffee hilft mir am Morgen.|Starker|Starken|Starke|Ohne Artikel trägt das Adjektiv maskulin Nominativ die Endung -er.
+Sie trägt ein ___ Hemd. (weiß)|weißes|||Neutrum Akkusativ nach ein: weißes.
+@B1|Kasus und Präpositionen|Mit, bei, nach, seit und von verlangen Dativ. Für, ohne, durch und gegen verlangen Akkusativ.
+Ich fahre mit ___ Bus.|dem|den|der|Mit verlangt Dativ; der Bus → dem Bus.
+Das Geschenk ist für ___ Kollegin.|die|der|den|Für verlangt Akkusativ; die Kollegin bleibt die Kollegin.
+Seit ___ Monat arbeitet er hier.|einem|einen|ein|Seit verlangt Dativ: seit einem Monat.
+Ohne ___ Ausweis kann ich nicht reisen.|meinen|meinem|meiner|Ohne verlangt Akkusativ; Ausweis ist maskulin.
+Sie kommt aus ___ Türkei.|der|||Aus verlangt Dativ; die Türkei → der Türkei.
+@B1|Wechselpräpositionen|Bei Wechselpräpositionen steht Dativ für einen Ort (wo?) und Akkusativ für ein räumliches Ziel (wohin?). Bewegung allein bedeutet nicht automatisch Akkusativ.
+Das Buch liegt auf ___ Tisch.|dem|den|der|Wo liegt es? Ort: Dativ, auf dem Tisch.
+Ich lege das Buch auf ___ Tisch.|den|dem|der|Wohin lege ich es? Ziel: Akkusativ, auf den Tisch.
+Die Kinder spielen in ___ Garten.|dem|den|die|Das Spielen findet im Garten statt: Dativ, auch bei Bewegung innerhalb des Ortes.
+Wir hängen das Bild an ___ Wand.|die|der|den|Wohin hängen wir das Bild? Akkusativ, an die Wand.
+Der Schlüssel liegt in ___ Tasche. (die Tasche)|der|||Wo liegt der Schlüssel? Feminin Dativ: in der Tasche.
+@B1|Verben mit Präpositionen und Pronominaladverbien|Viele Verben haben eine feste Präposition. Bei Sachen stehen oft da(r)-/wo(r)-Formen; bei Personen Präposition + Pronomen.
+Ich warte ___ den Bus.|auf|für|an|Die feste Verbindung ist warten auf + Akkusativ.
+Sie interessiert sich ___ Technik.|für|auf|mit|Sich interessieren für verlangt Akkusativ.
+Ich freue mich ___ den Urlaub nächste Woche.|auf|über|an|Sich freuen auf bezieht sich auf ein erwartetes zukünftiges Ereignis.
+Ich denke oft an meinen Bruder. ___ denkst du?|An wen|Woran|Wofür|Bei einer Person fragt man an wen, nicht woran.
+Du wartest auf das Ergebnis. Ich warte auch ___.|darauf|||Bei einer Sache ersetzt darauf die Verbindung auf das Ergebnis.
+@B1|Reflexive Verben und Pronomen|Reflexivpronomen beziehen sich auf das Subjekt. Mit einem weiteren Akkusativobjekt steht das Reflexivpronomen oft im Dativ.
+Ich interessiere ___ für IT.|mich|mir|sich|Sich interessieren braucht hier das Reflexivpronomen im Akkusativ: mich.
+Sie bewirbt ___ um eine Stelle.|sich|sie|ihr|In der dritten Person lautet das Reflexivpronomen sich.
+Ich wasche ___ die Hände.|mir|mich|mein|Die Hände ist Akkusativobjekt; die Person steht im Dativ: mir.
+Wir freuen ___ auf das Wochenende.|uns|sich|euch|Das Reflexivpronomen zu wir ist uns.
+Du solltest ___ mehr Zeit nehmen.|dir|||Sich Zeit nehmen: Zeit ist Akkusativ; die Person steht im Dativ, zu du also dir.
+@B1|Konjunktiv II: Wünsche und höfliche Bitten|Konjunktiv II drückt Wünsche, Irreales oder Höflichkeit aus. Häufige Formen: hätte, wäre, könnte, würde + Infinitiv.
+___ Sie mir bitte helfen?|Könnten|Konnten|Können zu|Könnten ist eine höfliche Bitte im Konjunktiv II.
+Wenn ich mehr Zeit hätte, ___ ich mehr lernen.|würde|werde|wurde|Die irreale Folge wird hier mit würde + Infinitiv ausgedrückt.
+Ich ___ gern einen ruhigeren Arbeitsplatz.|hätte|hatte|habe zu|Hätte gern drückt einen Wunsch aus.
+An deiner Stelle ___ ich mit dem Chef sprechen.|würde|wurde|werde|An deiner Stelle + würde ist ein typischer Ratschlag.
+Wenn ich reich ___, würde ich weniger arbeiten. (sein)|wäre|||Die Konjunktiv-II-Form von sein lautet wäre.
+@B1|Komparation und Vergleiche|Komparativ + als beschreibt Unterschiede; so/genauso + Positiv + wie Gleichheit. Manche Formen sind unregelmäßig: gut → besser → am besten.
+Dieser Tarif ist günstiger ___ der alte.|als|wie|so|Nach einem Komparativ steht als.
+Das neue Gerät ist genauso schnell ___ das alte.|wie|als|denn|Gleichheit: genauso … wie.
+Von allen Angeboten ist dieses am ___.|besten|besser|gut|Der Superlativ von gut lautet am besten.
+Je mehr ich übe, ___ sicherer werde ich.|desto|als|wie|Die feste zweiteilige Verbindung lautet je … desto.
+Mein Weg ist jetzt ___ als früher. (kurz, Komparativ)|kürzer|||Kurz hat im Komparativ einen Umlaut: kürzer.
+@B2|Vorgangspassiv und Zustandspassiv|Werden + Partizip II beschreibt einen Vorgang; sein + Partizip II einen Zustand als Ergebnis. Perfekt des Vorgangspassivs: ist … worden.
+Die Rechnung ___ gerade geprüft.|wird|ist|hat|Gerade geprüft werden bezeichnet hier den laufenden Vorgang.
+Die Tür ist nicht mehr offen. Sie ___ geschlossen.|ist|hat|wird zu|Ist geschlossen beschreibt den Zustand der Tür.
+Der Vertrag ist gestern unterschrieben ___.|worden|geworden|werden|Im Perfekt des Vorgangspassivs steht worden, nicht geworden.
+Die Ware ___ gestern geliefert.|wurde|würde|hat|Wurde + geliefert ist das Vorgangspassiv im Präteritum.
+Die Maschine wird morgen ___. (reparieren)|repariert|||Das Passiv braucht das Partizip II repariert.
+@B2|Passiv mit Modalverben und Ersatzformen|Modalpassiv: Modalverb + Partizip II + werden. Sich lassen + Infinitiv und sein + zu + Infinitiv können passive Bedeutungen ausdrücken.
+Der Bericht muss heute ___ werden.|geschrieben|schreiben|schrieb|Modalpassiv: muss + geschrieben + werden.
+Die Rechnung kann online bezahlt ___.|werden|worden|geworden|Nach dem Modalverb steht werden im Infinitiv.
+Das Problem lässt sich leicht ___.|lösen|gelöst|zu lösen|Sich lassen verlangt einen Infinitiv ohne zu und bedeutet hier kann gelöst werden.
+Die Vorschriften sind unbedingt zu ___.|beachten|beachtet|beachten werden|Sein + zu + Infinitiv drückt hier eine Verpflichtung aus.
+Die Unterlagen müssen bis Montag geprüft ___.|werden|||Modalverb + Partizip II + werden: müssen geprüft werden.
+@B2|Konjunktiv II der Vergangenheit|Irreale Vergangenheit: hätte/wäre + Partizip II. Bei Modalverben steht oft der Ersatzinfinitiv: hätte … machen können.
+Wenn ich früher losgefahren wäre, ___ ich den Zug erreicht.|hätte|wäre|würde|Erreichen bildet die irreale Vergangenheit mit hätte + Partizip II.
+Wenn sie gelernt hätte, ___ sie die Prüfung bestanden.|hätte|wäre|würde|Bestanden haben → hätte bestanden.
+Ich hätte dich gestern anrufen ___.|sollen|gesollt|sollte|Mit einem weiteren Infinitiv benutzt man den Ersatzinfinitiv sollen.
+Ohne den Stau ___ wir pünktlich angekommen.|wären|hätten|würden|Ankommen bildet die irreale Vergangenheit mit wären angekommen.
+Wenn ich das gewusst hätte, ___ ich zu Hause geblieben. (sein)|wäre|||Bleiben wird mit sein gebildet: wäre geblieben.
+@B2|Indirekte Rede: Konjunktiv I|In formeller indirekter Rede steht häufig Konjunktiv I: er sei, er habe, er komme. Bei Formgleichheit mit dem Indikativ ist Konjunktiv II als Ersatz üblich.
+Die Chefin sagt, sie ___ heute im Homeoffice.|sei|seien|seiest|Konjunktiv I von sein in der dritten Person Singular: sei.
+Er erklärt, er ___ bereits bezahlt.|habe|habest|haben|Indirekte Rede im Perfekt: er habe bezahlt.
+Die Sprecherin sagt, die Firma ___ neue Mitarbeiter.|suche|suchest|suchen|Die dritte Person Singular im Konjunktiv I hat meist die Endung -e.
+Die Kollegen sagen, sie ___ heute keine Zeit. (eindeutig markierte indirekte Rede)|hätten|haben|hatten|Sie haben ist mit dem Indikativ identisch; hätten dient als Konjunktiv-II-Ersatzform.
+Er sagt, er ___ morgen zurück. (kommen, Konjunktiv I)|komme|||Die dritte Person Singular von kommen im Konjunktiv I lautet komme.
+@B2|Genitiv und Relativpronomen dessen/deren|Genitiv zeigt Zugehörigkeit. Dessen steht für maskuline/neutrale Bezugswörter; deren für feminine und Plural. Wegen/trotz stehen in formeller Standardsprache meist mit Genitiv.
+Das ist der Mann, ___ Auto gestohlen wurde.|dessen|deren|dem|Das Bezugswort Mann ist maskulin: dessen Auto.
+Die Firma, ___ Produkte wir verkaufen, ist bekannt.|deren|dessen|derer|Firma ist feminin: deren Produkte.
+Wegen ___ Wetters bleiben wir zu Hause.|des schlechten|dem schlechten|das schlechte|In formeller Standardsprache verlangt wegen hier Genitiv: des schlechten Wetters.
+Trotz ___ Verspätung begann die Sitzung pünktlich.|der|die|den|Feminin Genitiv nach trotz: der Verspätung.
+Das sind die Kollegen, ___ Vorschläge angenommen wurden.|deren|||Bei einem Bezugswort im Plural steht deren.
+@B2|Partizipien als Adjektive|Partizip I (Infinitiv + d) beschreibt meist eine aktive, laufende Handlung; Partizip II häufig ein Ergebnis oder eine passive Bedeutung. Beide werden als Adjektive dekliniert.
+Die gerade ___ Maschine ist laut. (laufen)|laufende|gelaufene|laufen|Die Maschine läuft gerade: aktive laufende Handlung, Partizip I laufend + Endung -e.
+Bitte unterschreiben Sie den bereits ___ Vertrag.|geprüften|prüfenden|prüfend|Der Vertrag wurde geprüft: Partizip II geprüft + Akkusativendung -en.
+Die im Ausland ___ Bewerberin spricht drei Sprachen. (leben)|lebende|gelebte|leben|Die Bewerberin lebt im Ausland: lebend + -e.
+Wir besprechen die gestern ___ Entscheidung. (treffen)|getroffene|treffende|treffen|Die Entscheidung wurde gestern getroffen: getroffene.
+Die ___ Kunden warten im Flur. (ankommen, Partizip II)|angekommenen|||Angekommen beschreibt hier ein abgeschlossenes Ereignis; nach die im Plural steht -en.
+@B2|Nominalisierung und Funktionsverbgefüge|Nominalisierung macht aus Verben Nomen. Funktionsverbgefüge verbinden ein Nomen mit einem relativ bedeutungsarmen Verb: eine Entscheidung treffen, zur Verfügung stehen.
+Wir müssen heute eine Entscheidung ___.|treffen|machen|tun|Die feste Verbindung lautet eine Entscheidung treffen.
+Die Firma stellt uns neue Geräte zur ___.|Verfügung|Verwendung|Verbindung|Zur Verfügung stellen bedeutet bereitstellen.
+Nach ___ des Vertrags begann sie zu arbeiten.|der Unterzeichnung|die Unterzeichnung|den Unterzeichnung|Nach verlangt Dativ; Nominalisierung: nach der Unterzeichnung.
+Die Kollegin nimmt an der Fortbildung ___.|teil|statt|vor|Teilnehmen an ist die verbale Entsprechung zu Teilnahme an.
+Unterstützen heißt auch: Unterstützung ___. (leisten)|leisten|||Die feste Verbindung lautet Unterstützung leisten.
+@B2|Zweiteilige Konnektoren, Negation und Alternativen|Sowohl … als auch addiert; weder … noch verneint beides; entweder … oder nennt Alternativen; zwar … aber drückt einen Gegensatz aus.
+Sie spricht sowohl Deutsch ___ Englisch.|als auch|oder|noch|Die additive Verbindung lautet sowohl … als auch.
+Er hat weder angerufen ___ eine E-Mail geschrieben.|noch|oder|aber|Weder … noch verneint beide Möglichkeiten.
+Wir fahren entweder mit dem Bus ___ mit dem Zug.|oder|noch|als auch|Entweder … oder nennt Alternativen.
+Das Gerät ist zwar teuer, ___ sehr zuverlässig.|aber|sondern|denn|Zwar … aber verbindet einen eingeräumten Nachteil mit einem Gegensatz.
+Das ist kein Fehler, ___ eine bewusste Entscheidung.|sondern|||Nach einer verneinten Aussage korrigiert sondern die Alternative: nicht/kein … sondern.

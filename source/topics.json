@@ -1,0 +1,8 @@
+[
+ {"id":"work-search","de":"Eine Arbeit suchen","ranges":[[354,500]]},
+ {"id":"new-workplace","de":"Ein neuer Arbeitsplatz","ranges":[[288,353]]},
+ {"id":"appointments","de":"Termine und Absprachen","ranges":[[151,223]]},
+ {"id":"trade","de":"Waren – Branchen – Handel","ranges":[[78,150]]},
+ {"id":"services","de":"Dienstleistungen","ranges":[[1,77]]},
+ {"id":"future","de":"Zukunftsperspektive","ranges":[[224,287]]}
+]

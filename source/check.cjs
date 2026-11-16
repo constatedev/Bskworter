@@ -1,0 +1,26 @@
+// Dependency-free application checks. Does not substitute for browser layout QA.
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+class Element{
+ constructor(){this.children=[];this.dataset={};this.value='';this.hidden=false;this.selectedOptions=[{text:'English'}];this.files=[];this.attrs={};}
+ append(...nodes){this.children.push(...nodes)} replaceChildren(...nodes){this.children=nodes} addEventListener(){} setAttribute(k,v){this.attrs[k]=v} remove(){} click(){} showModal(){this.open=true} close(){this.open=false}
+}
+const ids={};const get=id=>ids[id]||=new Element();get('deck').value='due';get('direction').value='de';get('filter').value='all';get('topic').value='all';get('practiceTopic').value='all';
+let saved={};const context={console,Blob,URL,setTimeout:()=>1,clearTimeout:()=>{},Date,window:{addEventListener(){}},document:{getElementById:get,querySelectorAll:()=>[],createElement:()=>new Element(),createTextNode:s=>s,documentElement:{},addEventListener(){},body:new Element()},localStorage:{getItem:k=>saved[k]||null,setItem:(k,v)=>saved[k]=v}};
+vm.createContext(context);for(const file of ['data.js','relations.js']){vm.runInContext(fs.readFileSync(__dirname+'/'+file,'utf8'),context);}
+context.WORDS=context.window.WORDS;context.RELATIONS=context.window.RELATIONS;context.TOPICS=context.window.TOPICS;
+vm.runInContext(fs.readFileSync(__dirname+'/app.js','utf8'),context);
+function check(s){vm.runInContext(s,context)}
+check(`if(WORDS.length!==500)throw Error('entry count');if(!WORDS.every(w=>LANGS.every(l=>typeof w[l]==='string'&&w[l].length>0)))throw Error('missing translations');if(!Object.values(TEXT).every(x=>x.length===6))throw Error('missing UI translations');`);
+check(`if(!session.current)throw Error('initial card');const first=session.current;session.revealed=true;rate('good');if(!status(first).known||status(first).level!==1||status(first).due<=Date.now())throw Error('schedule good');if(session.current===first)throw Error('card did not advance');`);
+check(`const second=session.current;session.revealed=true;rate('again');if(status(second).known||status(second).due-Date.now()>61000)throw Error('schedule again');`);
+check(`for(const l of LANGS){lang=l;translate();if(document.documentElement.dir!==(['ar','fa'].includes(l)?'rtl':'ltr'))throw Error('direction');}lang='en';`);
+check(`$('search').value='компетентність';if(!matches().some(w=>w.de.startsWith('die Kompetenz')))throw Error('multilingual search');$('search').value='';`);
+check(`const a=WORDS.find(w=>w.de==='zuverlässig'), b=WORDS.filter(w=>w.de==='zuverlässig')[1];update(a,{star:true,known:true});if(!status(b).star||!status(b).known)throw Error('repeated progress');$('filter').value='star';if(!matches().every(w=>status(w).star))throw Error('filter');$('filter').value='all';`);
+check(`const restored=readState(JSON.stringify(payload()));if(Object.keys(restored.progress).length<3)throw Error('round trip');let rejected=false;try{readState(JSON.stringify({version:1,progress:{unknown:{}}}));}catch{rejected=true}if(!rejected)throw Error('invalid import');`);
+check(`$('direction').value='translation';renderCard();if($('cardFront').textContent!==session.current[lang])throw Error('reverse cards');`);
+check(`if(TOPICS.length!==6)throw Error('topic count');const expected=[147,66,73,73,77,64];let seen=new Set();TOPICS.forEach((topic,i)=>{const words=topicWords(topic.id);if(words.length!==expected[i])throw Error('topic coverage');for(const w of words){if(seen.has(w.id))throw Error('duplicate ID');seen.add(w.id);}if(words.some((w,j)=>j&&words[j-1].sourceOrder>w.sourceOrder))throw Error('topic order');});if(seen.size!==500)throw Error('missing words');`);
+check(`$('deck').value='all';for(const topic of TOPICS){$('topic').value=topic.id;selectDictionaryTopic();if(!matches().length||matches().some(w=>w.topic!==topic.id))throw Error('dictionary scope');if(eligible().some(w=>w.topic!==topic.id))throw Error('card scope');if(!session.current||session.current.topic!==topic.id)throw Error('topic card');if($('practiceTopic').value!==topic.id)throw Error('sync');if(new Set(eligible().map(keyOf)).size!==eligible().length)throw Error('duplicate card');}`);
+check(`$('practiceTopic').value='future';if(!eligible().some(w=>w.de==='zuverlässig'))throw Error('shared word lost in selected topic');$('topic').value='trade';$('search').value='Guthaben';if(matches().length)throw Error('search leaks across topics');$('search').value='';$('topic').value='all';$('practiceTopic').value='all';visible=500;renderWords();if($('wordList').children.filter(n=>n.className==='topicHeading').length!==6)throw Error('group headings');`);
+check(`const oldBackup={version:1,lang:'ru',progress:{'zuverlässig':{known:true,star:true,level:3,due:123456,updated:123456}}};const old=readState(JSON.stringify(oldBackup));if(!old.progress['zuverlässig'].known||old.progress['zuverlässig'].level!==3)throw Error('legacy backup');`);
+check(`localStorage.setItem=()=>{throw Error('blocked')};save();if(storageOK)throw Error('storage failure not handled');`);
+console.log('PASS: 500 entries; six translations per entry; six complete UI languages; six ordered topics; topic-scoped dictionary and cards; legacy backups; multilingual search; filters; shared progress; scheduling; reverse cards; backup validation; persistence failures.');

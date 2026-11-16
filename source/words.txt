@@ -1,0 +1,500 @@
+etw. aktivieren|activate something|активувати щось|bir şeyi etkinleştirmek|تفعيل شيء|активировать что-либо
+die Anbietung, -en|offer|пропозиція|teklif|عرض|предложение
+die Antwort, -en|answer|відповідь|cevap|إجابة|ответ
+etw. auf Halden|stockpiled goods|товари на складах|stoklanmış mallar|بضائع مخزنة|товары на складах
+sich beeilen|hurry|поспішати|acele etmek|الإسراع|торопиться
+sich beschweren|complain|скаржитися|şikâyet etmek|الشكوى|жаловаться
+die Bestellung, -en|order|замовлення|sipariş|طلب|заказ
+das Datenvolumen, –|data allowance|обсяг даних|veri hacmi|حجم البيانات|объём данных
+etw. eingeben|enter something|вводити щось|bir şey girmek|إدخال شيء|вводить что-либо
+etw. eintragen|record something|вносити щось|bir şey kaydetmek|تسجيل شيء|вносить что-либо
+einmalig|one-off; unique|одноразовий; унікальний|tek seferlik; eşsiz|لمرة واحدة؛ فريد|разовый; уникальный
+der Einsteiger, –|beginner|початківець|yeni başlayan|مبتدئ|начинающий
+die Einstiegerei, -nen|female beginner|початківиця|yeni başlayan kadın|مبتدئة|начинающая
+etw. entgegennehmen|receive something|приймати щось|bir şeyi teslim almak|استلام شيء|принимать что-либо
+das Festnetz (Sg.)|landline network|стаціонарна мережа|sabit telefon şebekesi|شبكة الهاتف الثابت|стационарная сеть
+etw. freischalten|activate; unlock|активувати; розблокувати|etkinleştirmek; açmak|تفعيل؛ فتح|активировать; разблокировать
+die Grundgebühr, -en|basic fee|абонентська плата|sabit ücret|رسوم أساسية|абонентская плата
+gültig|valid|дійсний|geçerli|ساري المفعول|действительный
+günstig|inexpensive; favourable|недорогий; вигідний|uygun fiyatlı; elverişli|رخيص؛ ملائم|недорогой; выгодный
+das Guthaben, –|credit balance|залишок коштів|bakiye|رصيد|остаток средств
+der Handwerker, –|tradesman|ремісник|zanaatkâr|حرفي|ремесленник
+die Handwerkerin, -nen|female tradesperson|ремісниця|kadın zanaatkâr|حرفية|ремесленница
+inklusive|including|включно|dâhil|شامل|включительно
+die Kontrolle, -n|inspection; check|контроль; перевірка|kontrol|فحص؛ مراقبة|контроль; проверка
+der Lieferservice, -s|delivery service|служба доставки|teslimat hizmeti|خدمة التوصيل|служба доставки
+das Netz, -e|network|мережа|ağ|شبكة|сеть
+optimal|optimal|оптимальний|en uygun|أمثل|оптимальный
+profitieren von (+ Dat.)|benefit from|отримувати користь від|faydalanmak|الاستفادة من|получать пользу от
+etw. sperren|block something|блокувати щось|bir şeyi engellemek|حظر شيء|блокировать что-либо
+der Tarif, -e|rate; plan|тариф|tarife|تعرفة|тариф
+etw. verschicken|send something|надсилати щось|bir şey göndermek|إرسال شيء|отправлять что-либо
+der Vertrag, ⸚e|contract|договір|sözleşme|عقد|договор
+die Vertragslaufzeit, -en|contract term|строк дії договору|sözleşme süresi|مدة العقد|срок действия договора
+etw. zustellen|deliver something|доставляти щось|bir şeyi teslim etmek|تسليم شيء|доставлять что-либо
+etw. empfehlen|recommend something|рекомендувати щось|bir şey önermek|التوصية بشيء|рекомендовать что-либо
+die Erledigung, -en|completion; handling|виконання|tamamlama|إنجاز|выполнение
+etw. erteilen|grant; issue|надавати; видавати|vermek|منح؛ إصدار|предоставлять; выдавать
+der Grund, ⸚e|reason|причина|sebep|سبب|причина
+die Mehrwertsteuer (Sg.)|value-added tax (VAT)|податок на додану вартість|katma değer vergisi|ضريبة القيمة المضافة|налог на добавленную стоимость
+netto|net|нетто|net|صافٍ|нетто
+sorgfältig|careful; thorough|ретельний|özenli|دقيق؛ متأنٍ|тщательный
+die Summe, -n|sum; total|сума|toplam|مجموع|сумма
+die Unterschrift, -en|signature|підпис|imza|توقيع|подпись
+zahlbar|payable|що підлягає сплаті|ödenebilir|مستحق الدفع|подлежащий оплате
+zuverlässig|reliable|надійний|güvenilir|موثوق|надёжный
+das Angebot, -e|offer; quotation|пропозиція|teklif|عرض|предложение
+der Auftrag, ⸚e|order; assignment|замовлення; доручення|sipariş; görev|طلب؛ تكليف|заказ; поручение
+der Ausdruck, -e|printout|роздруківка|çıktı|نسخة مطبوعة|распечатка
+sich bedanken bei (jdm.)|thank someone|дякувати комусь|birine teşekkür etmek|شكر شخص|благодарить кого-либо
+brutto|gross|брутто|brüt|إجمالي|брутто
+einverstanden|in agreement|згодний|hemfikir|موافق|согласный
+der Ärger (Sg.)|annoyance; trouble|роздратування; неприємності|öfke; sıkıntı|انزعاج؛ متاعب|раздражение; неприятности
+der Artikel, –|item; article|товар; стаття|ürün; makale|سلعة؛ مقالة|товар; статья
+etw. bestätigen|confirm something|підтверджувати щось|bir şeyi onaylamak|تأكيد شيء|подтверждать что-либо
+die Beschwerde, -n|complaint|скарга|şikâyet|شكوى|жалоба
+defekt|faulty|несправний|arızalı|معطّل|неисправный
+dreckig|dirty|брудний|kirli|متسخ|грязный
+der Fleck, -en|stain|пляма|leke|بقعة|пятно
+der Mangel, ⸚|defect; deficiency|дефект; нестача|kusur; eksiklik|عيب؛ نقص|дефект; нехватка
+peinlich|embarrassing|незручний; сороміцький|utandırıcı|محرج|неловкий; постыдный
+die Reklamation, -en|claim; product complaint|рекламація|ürün şikâyeti|شكوى بشأن سلعة|рекламация
+unvollständig|incomplete|неповний|eksik|غير مكتمل|неполный
+der Vorschlag, ⸚e|suggestion|пропозиція|öneri|اقتراح|предложение
+etw. zurückschicken|send something back|відсилати назад|geri göndermek|إعادة إرسال شيء|отсылать обратно
+etw. zurücksetzen|reset something|скидати налаштування|sıfırlamak|إعادة ضبط شيء|сбрасывать настройки
+etw. verlegen|misplace; relocate|загубити; перенести|yanlış yere koymak; taşımak|إضاعة؛ نقل|затерять; перенести
+jdn. ausreden lassen|let someone finish speaking|дати комусь договорити|birinin sözünü bitirmesine izin vermek|ترك شخص يكمل كلامه|дать кому-либо договорить
+die Redewendung, -en|idiom; expression|сталий вислів|deyim|تعبير اصطلاحي|устойчивое выражение
+die Erwartung, -en|expectation|очікування|beklenti|توقّع|ожидание
+etw. klären|clarify something|з'ясувати щось|bir şeyi açıklığa kavuşturmak|توضيح شيء|выяснять что-либо
+Kompromissfähig|willing to compromise|здатний до компромісу|uzlaşmaya açık|قابل للتسوية|способный на компромисс
+bei etw. helfen können|be able to help with something|могти допомогти з чимось|bir konuda yardım edebilmek|القدرة على المساعدة في شيء|мочь помочь с чем-либо
+einen Preisnachlass gewähren|grant a discount|надавати знижку|indirim yapmak|منح خصم|предоставлять скидку
+ruhig bleiben|remain calm|залишатися спокійним|sakin kalmak|البقاء هادئًا|сохранять спокойствие
+unzureichend|insufficient|недостатній|yetersiz|غير كافٍ|недостаточный
+vereinbart|agreed|узгоджений|kararlaştırılmış|متفق عليه|согласованный
+sich etw. vorstellen|imagine something|уявляти щось|bir şeyi hayal etmek|تخيّل شيء|представлять себе что-либо
+abhängig sein von (+ Dat.)|depend on|залежати від|bağlı olmak|الاعتماد على|зависеть от
+die Beratung, -en|advice; consultation|консультація|danışmanlık|استشارة|консультация
+Geld ausgeben für (+ Akk.)|spend money on|витрачати гроші на|para harcamak|إنفاق المال على|тратить деньги на
+die Lieferzeit, -en|delivery time|строк доставки|teslimat süresi|مدة التوصيل|срок доставки
+die Öffnungszeit, -en|opening hours|час роботи|açılış saatleri|ساعات العمل|часы работы
+der Online-Einkauf, ⸚e|online purchase|онлайн-покупка|çevrim içi alışveriş|شراء عبر الإنترنت|онлайн-покупка
+die Qualität, -en|quality|якість|kalite|جودة|качество
+vorrätig|in stock|наявний на складі|stokta mevcut|متوفر في المخزون|имеющийся в наличии
+die Ware, -n|goods|товар|mal|بضاعة|товар
+der Vorrat, ⸚e|stock; supply|запас|stok|مخزون|запас
+der Zwischenhändler, –|intermediary; reseller|посередник|aracı satıcı|وسيط تجاري|посредник
+der Absatz, ⸚e|sales volume|збут|satış hacmi|حجم المبيعات|сбыт
+die (technische) Anlage, -n|(technical) plant; system|(технічна) установка|(teknik) tesis|منشأة تقنية|техническая установка
+eine Anlage warten|maintain a system|обслуговувати установку|tesisin bakımını yapmak|صيانة منشأة|обслуживать установку
+jdn./etw. beobachten|observe someone/something|спостерігати за кимось/чимось|birini/bir şeyi gözlemlemek|مراقبة شخص أو شيء|наблюдать за кем-либо/чем-либо
+der Einzelhandel (Sg.)|retail trade|роздрібна торгівля|perakende ticaret|تجارة التجزئة|розничная торговля
+der Endkunde, -n|end customer|кінцевий споживач|son müşteri|عميل نهائي|конечный потребитель
+die Endkundin, -nen|female end customer|кінцева споживачка|son müşteri (kadın)|عميلة نهائية|конечная потребительница
+etw. entwickeln|develop something|розробляти щось|bir şey geliştirmek|تطوير شيء|разрабатывать что-либо
+die Forschung und Entwicklung (Sg.)|research and development|дослідження та розробки|araştırma ve geliştirme|البحث والتطوير|исследования и разработки
+der Großhandel (Sg.)|wholesale trade|оптова торгівля|toptan ticaret|تجارة الجملة|оптовая торговля
+der Handel (Sg.)|trade|торгівля|ticaret|تجارة|торговля
+herstellen|manufacture|виготовляти|üretmek|تصنيع|производить
+die Herstellung (Sg.)|manufacturing|виготовлення|üretim|تصنيع|производство
+etw. liefern|deliver something|постачати щось|bir şey teslim etmek|توريد شيء|поставлять что-либо
+der Teilersteller, –|parts manufacturer|виробник деталей|parça üreticisi|مصنّع قطع|производитель деталей
+Lieferscheine ausstellen|issue delivery notes|оформлювати накладні|sevk irsaliyesi düzenlemek|إصدار مستندات تسليم|оформлять накладные
+die Lieferung, -en|delivery|поставка|teslimat|تسليم|поставка
+die Markt-, -e|brand|марка|marka|علامة تجارية|марка
+im Kaufmann Sinn|in a commercial sense|у комерційному розумінні|ticari anlamda|بالمعنى التجاري|в коммерческом смысле
+das Marketing (Sg.)|marketing|маркетинг|pazarlama|تسويق|маркетинг
+die Ware, -n|goods|товар|mal|بضاعة|товар
+etw. montieren|assemble something|монтувати щось|bir şeyi monte etmek|تركيب شيء|монтировать что-либо
+die Produktion, -en|production|виробництво|üretim|إنتاج|производство
+die Rechnung, -en|invoice; bill|рахунок|fatura|فاتورة|счёт
+die Spedition, -en|freight forwarding company|експедиторська компанія|nakliye şirketi|شركة شحن|экспедиторская компания
+der Transport, -e|transport|перевезення|taşıma|نقل|перевозка
+die Verpackung, -en|packaging|упаковка|ambalaj|تغليف|упаковка
+der Versand (Sg.)|dispatch; shipping|відправлення|gönderim|شحن|отправка
+etw. analysieren|analyse something|аналізувати щось|bir şeyi analiz etmek|تحليل شيء|анализировать что-либо
+etw. bearbeiten|process; work on|опрацьовувати|işlemek|معالجة شيء|обрабатывать
+jdn./etw. befördern|transport; promote someone|перевозити; підвищувати|taşımak; terfi ettirmek|نقل؛ ترقية شخص|перевозить; повышать
+jdn./etw. betreuen|look after someone/something|опікуватися кимось/чимось|ilgilenmek|رعاية شخص أو شيء|заботиться о ком-либо/чём-либо
+die Branche, -n|industry; sector|галузь|sektör|قطاع|отрасль
+etw. entwickeln|develop something|розробляти щось|bir şey geliştirmek|تطوير شيء|разрабатывать что-либо
+die Gastronomie (Sg.)|catering industry|ресторанний бізнес|yiyecek içecek sektörü|قطاع المطاعم|ресторанный бизнес
+etw. gestalten|design something|оформлювати щось|bir şey tasarlamak|تصميم شيء|оформлять что-либо
+das Handwerk (Sg.)|skilled trades; craft|ремесло|zanaat|حرفة|ремесло
+die IT-Branche (Sg.)|IT industry|ІТ-галузь|bilişim sektörü|قطاع تقنية المعلومات|ИТ-отрасль
+etw. konstruieren|design; construct|конструювати|tasarlamak; inşa etmek|تصميم؛ بناء|конструировать
+etw. kontrollieren|check something|перевіряти щось|bir şeyi kontrol etmek|فحص شيء|проверять что-либо
+Kunden beraten|advise customers|консультувати клієнтів|müşterilere danışmanlık yapmak|تقديم المشورة للعملاء|консультировать клиентов
+der Kundenberater, –|customer advisor|консультант клієнтів|müşteri danışmanı|مستشار عملاء|консультант клиентов
+die Kundenberaterin, -nen|female customer advisor|консультантка клієнтів|müşteri danışmanı (kadın)|مستشارة عملاء|консультантка клиентов
+das Labor, -e|laboratory|лабораторія|laboratuvar|مختبر|лаборатория
+etw. lagern|store something|зберігати щось|bir şeyi depolamak|تخزين شيء|хранить что-либо
+der Lagerist, -en|warehouse worker|комірник|depo görevlisi|عامل مستودع|кладовщик
+die Lageristin, -nen|female warehouse worker|комірниця|depo görevlisi (kadın)|عاملة مستودع|кладовщица
+der Tierpfleger, –|animal keeper|доглядач тварин|hayvan bakıcısı|راعٍ للحيوانات|смотритель животных
+die Tierpflegerin, -nen|female animal keeper|доглядачка тварин|hayvan bakıcısı (kadın)|راعية للحيوانات|смотрительница животных
+Transport und Logistik (Sg.)|transport and logistics|транспорт і логістика|taşımacılık ve lojistik|النقل والخدمات اللوجستية|транспорт и логистика
+der Vertriebsweg, -e|distribution channel|канал збуту|dağıtım kanalı|قناة توزيع|канал сбыта
+Waren bestellen|order goods|замовляти товари|mal sipariş etmek|طلب بضائع|заказывать товары
+Wissenschaft und Forschung (Sg.)|science and research|наука та дослідження|bilim ve araştırma|العلم والبحث|наука и исследования
+etw. zu etw. formen|shape something into something|надавати чомусь форми|bir şeye şekil vermek|تشكيل شيء ليصبح شيئًا|придавать чему-либо форму
+etw. aufstellen|set up something|встановлювати щось|bir şey kurmak|نصب شيء|устанавливать что-либо
+die Bequemlichkeit, -en|convenience; comfort|зручність|rahatlık|راحة|удобство
+der CO₂-Ausstoß (Sg.)|CO₂ emissions|викиди CO₂|CO₂ salımı|انبعاثات ثاني أكسيد الكربون|выбросы CO₂
+der Händler, –|dealer; trader|торговець|tüccar|تاجر|торговец
+die Händlerin, -nen|female trader|торговка|kadın tüccar|تاجرة|торговка
+die Material, -n|material|матеріал|malzeme|مادة|материал
+die Umwelt, -en|environment|довкілля|çevre|بيئة|окружающая среда
+der Sonderwunsch, ⸚e|special request|особливе побажання|özel istek|طلب خاص|особое пожелание
+sich etw. anschauen|look at something|розглядати щось|bir şeye bakmak|النظر إلى شيء|рассматривать что-либо
+der Arbeitsalltag (Sg.)|everyday working life|робочі будні|günlük iş hayatı|الحياة العملية اليومية|рабочие будни
+die Arbeitsdichte (Sg.)|work intensity|інтенсивність праці|iş yoğunluğu|كثافة العمل|интенсивность труда
+das Arbeitsleben (Sg.)|working life|трудове життя|çalışma hayatı|الحياة المهنية|трудовая жизнь
+die Arbeitswelt (Sg.)|world of work|світ праці|iş dünyası|عالم العمل|мир труда
+sich auswirken auf (+ Akk.)|have an effect on|впливати на|etkilemek|التأثير على|влиять на
+der Baustelle, -n|construction site|будівельний майданчик|şantiye|موقع بناء|строительная площадка
+sich beeilen|hurry|поспішати|acele etmek|الإسراع|торопиться
+die Berufssparte, -n|occupational field|професійна галузь|meslek dalı|مجال مهني|профессиональная отрасль
+der Beschäftigte, -n|employee (male)|працівник|çalışan (erkek)|موظف|работник
+die Beschäftigte, -n|employee (female)|працівниця|çalışan (kadın)|موظفة|работница
+die Beschleunigung, -en|acceleration|прискорення|hızlanma|تسارع|ускорение
+etw. bewältigen|cope with something|долати щось|bir şeyin üstesinden gelmek|التغلب على شيء|справляться с чем-либо
+die Herausforderung, -en|challenge|виклик|zorluk|تحدٍّ|вызов
+der Maurer, –|bricklayer|муляр|duvar ustası|بنّاء|каменщик
+die Maurerin, -nen|female bricklayer|мулярка|duvar ustası (kadın)|بنّاءة|каменщица
+die Strecke, -n|route; distance|шлях; відстань|güzergâh; mesafe|مسار؛ مسافة|путь; расстояние
+auf der Strecke bleiben|fall by the wayside|залишитися поза увагою|geri planda kalmak|التعرض للإهمال|остаться за бортом
+einen Termin absagen|cancel an appointment|скасувати зустріч|randevuyu iptal etmek|إلغاء موعد|отменить встречу
+das Treffen, –|meeting|зустріч|buluşma|لقاء|встреча
+sich verspäten|be late|запізнюватися|gecikmek|التأخر|опаздывать
+das Wohlbefinden (Sg.)|well-being|самопочуття|iyi olma hâli|عافية|самочувствие
+der Zeitdruck (Sg.)|time pressure|брак часу|zaman baskısı|ضغط الوقت|нехватка времени
+die Abteilungskonferenz, -en|department meeting|нарада відділу|bölüm toplantısı|اجتماع القسم|совещание отдела
+sich absprechen|coordinate with each other|узгоджувати між собою|birbirine danışmak|التنسيق فيما بين الأطراف|согласовывать между собой
+der Anspruch, ⸚e|entitlement; claim|право; вимога|hak; talep|استحقاق؛ مطالبة|право; требование
+Anspruch haben auf (+ Akk.)|be entitled to|мати право на|hakkı olmak|استحقاق شيء|иметь право на
+der Arbeitsweg, -e|commute|дорога на роботу|işe gidiş yolu|طريق الذهاب إلى العمل|дорога на работу
+die Arbeitszeit, -en|working hours|робочий час|çalışma süresi|ساعات العمل|рабочее время
+das Arbeitszeitgesetz, -e|Working Hours Act|закон про робочий час|Çalışma Süreleri Kanunu|قانون ساعات العمل|закон о рабочем времени
+die Betriebsruhe (Sg.)|company shutdown period|перерва в роботі підприємства|işletmenin kapalı olduğu dönem|فترة توقف الشركة عن العمل|перерыв в работе предприятия
+das EDV-System, -e|computer system|комп'ютерна система|bilgisayar sistemi|نظام معالجة بيانات إلكتروني|компьютерная система
+einweisen in (+ Akk.)|instruct in|інструктувати щодо|konusunda eğitim vermek|تدريب على|инструктировать по
+der Ersatzruhetag, -e|compensatory rest day|компенсаційний вихідний|telafi dinlenme günü|يوم راحة تعويضي|компенсационный выходной
+etw. vorschreiben|stipulate something|приписувати щось|bir şeyi zorunlu kılmak|فرض شيء|предписывать что-либо
+der Fall, ⸚e|case|випадок|durum|حالة|случай
+auf keinen Fall|under no circumstances|у жодному разі|hiçbir şekilde|بأي حال من الأحوال لا|ни в коем случае
+der Freizeitausgleich (Sg.)|time off in lieu|відгул|telafi izni|إجازة تعويضية|отгул
+der Mindesturlaub (Sg.)|minimum holiday entitlement|мінімальна відпустка|asgari yıllık izin|الحد الأدنى للإجازة|минимальный отпуск
+die Pflicht, -en|duty|обов'язок|görev|واجب|обязанность
+das Recht, -e|right; law|право|hak; hukuk|حق؛ قانون|право
+Recht haben|be right|мати рацію|haklı olmak|أن يكون على حق|быть правым
+die (gesetzliche) Regel, -n|(legal) rule|(законодавче) правило|(yasal) kural|قاعدة قانونية|законодательное правило
+die Schichtarbeit (Sg.)|shift work|позмінна робота|vardiyalı çalışma|العمل بنظام الورديات|посменная работа
+die Teilzeitarbeit (Sg.)|part-time work|неповна зайнятість|yarı zamanlı çalışma|العمل بدوام جزئي|неполная занятость
+die Überstunde, -n|overtime hour|понаднормова година|fazla mesai saati|ساعة عمل إضافية|сверхурочный час
+der Urlaubstag, -e|day of leave|день відпустки|izin günü|يوم إجازة|день отпуска
+die Urlaubszeit, -en|holiday period|період відпустки|tatil dönemi|فترة الإجازة|период отпуска
+die Vollzeitarbeit (Sg.)|full-time work|повна зайнятість|tam zamanlı çalışma|العمل بدوام كامل|полная занятость
+die Wochenendarbeit, -en|weekend work|робота у вихідні|hafta sonu çalışması|العمل في عطلة نهاية الأسبوع|работа по выходным
+die Deadline (Sg.)|deadline|кінцевий термін|son teslim tarihi|موعد نهائي|крайний срок
+das Drehbuch, ⸚er|script; screenplay|сценарій|senaryo|سيناريو|сценарий
+der Entwurf, ⸚e|draft; design|проєкт; ескіз|taslak|مسودة؛ تصميم|проект; эскиз
+die Kampagne, -n|campaign|кампанія|kampanya|حملة|кампания
+die Kosmetikserie, -n|cosmetics range|серія косметики|kozmetik serisi|مجموعة مستحضرات تجميل|серия косметики
+das Printmedium, -medien|print medium|друковане видання|basılı yayın|وسيلة إعلام مطبوعة|печатное издание
+relevant|relevant|доречний; значущий|ilgili; önemli|ذو صلة|значимый; относящийся к делу
+der Senior Manager, –|senior manager|старший менеджер|kıdemli yönetici|مدير أول|старший менеджер
+die Senior Managerin, -nen|female senior manager|старша менеджерка|kıdemli yönetici (kadın)|مديرة أولى|старшая менеджерка
+der Werbefilm, -e|advertising film|рекламний ролик|reklam filmi|فيلم إعلاني|рекламный ролик
+die Werbekampagne, -n|advertising campaign|рекламна кампанія|reklam kampanyası|حملة إعلانية|рекламная кампания
+die Abmahnung, -en|formal warning|офіційне попередження|resmî ihtar|إنذار رسمي|официальное предупреждение
+das Arbeitsgericht, -e|labour court|трудовий суд|iş mahkemesi|محكمة العمل|трудовой суд
+der Betriebsrat, ⸚e|works council; council member|виробнича рада; її член|işyeri konseyi; üyesi|مجلس العمال؛ عضو فيه|производственный совет; его член
+der Betriebsfeier, -n|company party|корпоративне свято|şirket kutlaması|حفلة الشركة|корпоративный праздник
+dokumentieren|document|документувати|belgelemek|توثيق|документировать
+der Heizungstechniker, –|heating technician|технік з опалення|ısıtma teknisyeni|فني تدفئة|техник по отоплению
+die Heizungstechnikerin, -nen|female heating technician|технікиня з опалення|ısıtma teknisyeni (kadın)|فنية تدفئة|женщина-техник по отоплению
+die Hilfe, -n|help|допомога|yardım|مساعدة|помощь
+um Hilfe bitten|ask for help|просити допомоги|yardım istemek|طلب المساعدة|просить о помощи
+das Zuspätkommen (Sg.)|being late|запізнення|geç kalma|التأخر|опоздание
+das Verständnis (Sg.)|understanding|розуміння|anlayış|تفهّم|понимание
+verärgert sein über (+ Akk.)|be annoyed about|бути роздратованим через|bir şeye kızgın olmak|الانزعاج من|быть раздражённым из-за
+der Alltag (Sg.)|everyday life|повсякденне життя|gündelik hayat|الحياة اليومية|повседневная жизнь
+der Anschluss, ⸚e|connection|підключення|bağlantı|اتصال|подключение
+die Anwendungsmöglichkeit, -en|possible application|можливість застосування|uygulama olanağı|إمكانية الاستخدام|возможность применения
+das Display, -s|display|дисплей|ekran|شاشة|дисплей
+die Einsatzzeit, -en|operating time|час використання|kullanım süresi|مدة التشغيل|время использования
+das Festnetz (Sg.)|landline network|стаціонарна мережа|sabit telefon şebekesi|شبكة الهاتف الثابت|стационарная сеть
+das Gerät, -e|device|пристрій|cihaz|جهاز|устройство
+herunterladen|download|завантажувати|indirmek|تنزيل|скачивать
+etw. installieren|install something|встановлювати щось|bir şey yüklemek|تثبيت شيء|устанавливать что-либо
+das Kommunikationsmittel, –|means of communication|засіб зв'язку|iletişim aracı|وسيلة اتصال|средство связи
+leistungsfähig|powerful; efficient|потужний; продуктивний|güçlü; verimli|عالي الأداء|мощный; производительный
+der Mobilfunk (Sg.)|mobile communications|мобільний зв'язок|mobil iletişim|اتصالات محمولة|мобильная связь
+multifunktional|multifunctional|багатофункціональний|çok işlevli|متعدد الوظائف|многофункциональный
+das Navi, -s|satnav|навігатор|navigasyon cihazı|جهاز ملاحة|навигатор
+das Navigationsgerät, -e|navigation device|навігаційний пристрій|navigasyon cihazı|جهاز ملاحة|навигационное устройство
+problemlos|without problems|без проблем|sorunsuz|دون مشاكل|без проблем
+das Risiko, Risiken|risk|ризик|risk|مخاطرة|риск
+sinken|decrease; sink|знижуватися; тонути|azalmak; batmak|انخفاض؛ غرق|снижаться; тонуть
+die Tastatur, -en|keyboard|клавіатура|klavye|لوحة مفاتيح|клавиатура
+verfügbar|available|доступний|mevcut|متاح|доступный
+etw. weiterentwickeln|develop something further|удосконалювати щось|bir şeyi daha da geliştirmek|مواصلة تطوير شيء|совершенствовать что-либо
+die Zukunft (Sg.)|future|майбутнє|gelecek|مستقبل|будущее
+in Zukunft|in future|у майбутньому|gelecekte|في المستقبل|в будущем
+die Eigenschaft, -en|characteristic|властивість|özellik|خاصية|свойство
+der Erfolg, -e|success|успіх|başarı|نجاح|успех
+Erfolg haben|be successful|мати успіх|başarılı olmak|تحقيق النجاح|иметь успех
+fachübergreifend|interdisciplinary|міждисциплінарний|disiplinler arası|متعدد التخصصات|междисциплинарный
+die Gesprächs- und Verhandlungsführung (Sg.)|conversation and negotiation skills|ведення розмов і переговорів|görüşme ve müzakere yönetimi|إدارة الحوار والتفاوض|ведение бесед и переговоров
+interkulturell|intercultural|міжкультурний|kültürlerarası|بين الثقافات|межкультурный
+die IT-Systemkauffrau (Pl. IT-Kaufleute)|IT systems business specialist (female)|фахівчиня з комерції ІТ-систем|bilişim sistemleri ticaret uzmanı (kadın)|أخصائية تجارة أنظمة تقنية المعلومات|специалистка по коммерции ИТ-систем
+der IT-Systemkaufmann (Pl. IT-Kaufleute)|IT systems business specialist (male)|фахівець з комерції ІТ-систем|bilişim sistemleri ticaret uzmanı (erkek)|أخصائي تجارة أنظمة تقنية المعلومات|специалист по коммерции ИТ-систем
+die Soft Skills (Pl.)|soft skills|гнучкі навички|sosyal beceriler|مهارات شخصية|гибкие навыки
+teamfähig|able to work in a team|здатний працювати в команді|takım çalışmasına yatkın|قادر على العمل ضمن فريق|умеющий работать в команде
+die Teamfähigkeit (Sg.)|teamwork skills|уміння працювати в команді|takım çalışması becerisi|القدرة على العمل الجماعي|умение работать в команде
+die Umfrage, -n|survey|опитування|anket|استطلاع|опрос
+wahrscheinlich|probably; likely|ймовірно; ймовірний|muhtemelen; olası|على الأرجح؛ محتمل|вероятно; вероятный
+Wert legen auf (+ Akk.)|attach importance to|надавати значення|önem vermek|إيلاء أهمية لـ|придавать значение
+das Wissensmanagement (Sg.)|knowledge management|управління знаннями|bilgi yönetimi|إدارة المعرفة|управление знаниями
+zuverlässig|reliable|надійний|güvenilir|موثوق|надёжный
+die Zuverlässigkeit (Sg.)|reliability|надійність|güvenilirlik|موثوقية|надёжность
+die Arbeit erleichtern|make work easier|полегшувати роботу|işi kolaylaştırmak|تسهيل العمل|облегчать работу
+die Daten (Pl.)|data|дані|veriler|بيانات|данные
+Daten missbrauchen|misuse data|зловживати даними|verileri kötüye kullanmak|إساءة استخدام البيانات|злоупотреблять данными
+nachteilig|disadvantageous|невигідний; шкідливий|dezavantajlı|ضار؛ غير مواتٍ|невыгодный; вредный
+papierlos|paperless|безпаперовий|kâğıtsız|دون ورق|безбумажный
+die sozialen Netzwerke (Pl.)|social networks|соціальні мережі|sosyal ağlar|شبكات التواصل الاجتماعي|социальные сети
+speichern|save; store|зберігати|kaydetmek|حفظ|сохранять
+verzichten auf (+ Akk.)|do without; give up|відмовлятися від|vazgeçmek|الاستغناء عن|отказываться от
+die Anforderung, -en|requirement|вимога|gereksinim|متطلب|требование
+der Ausbildungsberuf, -e|recognised training occupation|професія професійного навчання|mesleki eğitim mesleği|مهنة تُكتسب بالتدريب المهني|профессия профессионального обучения
+beeinflussen|influence|впливати|etkilemek|التأثير|влиять
+die Berufsaussicht, -en|career prospect|кар'єрна перспектива|kariyer beklentisi|آفاق مهنية|карьерная перспектива
+die Digitalisierung (Sg.)|digitalisation|цифровізація|dijitalleşme|رقمنة|цифровизация
+der Arbeitsablauf, ⸚e|workflow|робочий процес|iş akışı|سير العمل|рабочий процесс
+die Automatisierung (Sg.)|automation|автоматизація|otomasyon|أتمتة|автоматизация
+etw. einführen|introduce something|впроваджувати щось|bir şeyi uygulamaya koymak|إدخال شيء|внедрять что-либо
+die Entwicklung, -en|development|розвиток; розробка|gelişim; geliştirme|تطوير؛ تطور|развитие; разработка
+etw. fernsteuern|control something remotely|керувати дистанційно|uzaktan kumanda etmek|التحكم بشيء عن بُعد|управлять дистанционно
+das Fließband, ⸚er|conveyor belt|конвеєр|üretim bandı|حزام ناقل|конвейер
+die Informationstechnologie, -n|information technology|інформаційна технологія|bilgi teknolojisi|تقنية المعلومات|информационная технология
+das Internet der Dinge (Sg.)|Internet of Things|інтернет речей|nesnelerin interneti|إنترنت الأشياء|интернет вещей
+der Sprachassistent, -en|voice assistant|голосовий помічник|sesli asistan|مساعد صوتي|голосовой помощник
+die Vernetzung, -en|networking; interconnection|об'єднання в мережу|ağ oluşturma|ربط شبكي|объединение в сеть
+vielfältig|diverse|різноманітний|çeşitli|متنوع|разнообразный
+der Empfang, ⸚e|reception|приймальня; прийом|resepsiyon; karşılama|استقبال|приёмная; приём
+die Personalabteilung, -en|human resources department|відділ кадрів|insan kaynakları bölümü|قسم الموارد البشرية|отдел кадров
+die Kantine, -n|canteen|їдальня|yemekhane|مطعم الموظفين|столовая
+das Lager, –|warehouse|склад|depo|مستودع|склад
+die Produktion (Sg.)|production|виробництво|üretim|إنتاج|производство
+die Forschung, -en|research|дослідження|araştırma|بحث|исследование
+die Entwicklung, -en|development|розвиток; розробка|gelişim; geliştirme|تطوير؛ تطور|развитие; разработка
+der Betriebsrat, ⸚e|works council; council member|виробнича рада; її член|işyeri konseyi; üyesi|مجلس العمال؛ عضو فيه|производственный совет; его член
+die Betriebsrätin, -nen|female works council member|членкиня виробничої ради|işyeri konseyi üyesi (kadın)|عضوة مجلس العمال|член производственного совета (женщина)
+die Geschäftsführung, -en|company management|керівництво підприємства|şirket yönetimi|إدارة الشركة|руководство предприятия
+die Finanzbuchhaltung, -en|financial accounting|фінансова бухгалтерія|finansal muhasebe|محاسبة مالية|финансовая бухгалтерия
+die Einarbeitung, -en|induction; on-the-job training|введення в роботу|işe alıştırma|تدريب تمهيدي للعمل|введение в работу
+der Ansprechpartner, –|contact person (male)|контактна особа (чоловік)|irtibat kişisi (erkek)|مسؤول اتصال|контактное лицо (мужчина)
+die Ansprechpartnerin, -nen|contact person (female)|контактна особа (жінка)|irtibat kişisi (kadın)|مسؤولة اتصال|контактное лицо (женщина)
+die Pausenregelung, -en|break policy|правила перерв|mola düzenlemesi|تنظيم فترات الاستراحة|правила перерывов
+der Rundgang, ⸚e|tour; walk around|обхід; екскурсія|gezi; tur|جولة|обход; экскурсия
+sich weiterbilden|pursue further training|підвищувати кваліфікацію|kendini mesleki olarak geliştirmek|مواصلة التدريب|повышать квалификацию
+sich ärgern über (+ Akk.)|be annoyed about|дратуватися через|bir şeye kızmak|الانزعاج من|раздражаться из-за
+der Berufsalltag (Sg.)|everyday working life|професійні будні|günlük meslek hayatı|الحياة المهنية اليومية|профессиональные будни
+die Erfahrung, -en|experience|досвід|deneyim|خبرة|опыт
+Erfahrung haben mit (+ Dat.)|have experience with|мати досвід із|konusunda deneyimli olmak|امتلاك خبرة في|иметь опыт с
+sich freuen auf (+ Akk.)|look forward to|з радістю очікувати|dört gözle beklemek|التطلع بشوق إلى|с радостью ожидать
+sich freuen über (+ Akk.)|be pleased about|радіти чомусь|bir şeye sevinmek|الفرح بشيء|радоваться чему-либо
+gehören zu (+ Dat.)|belong to|належати до|ait olmak|الانتماء إلى|принадлежать к
+es geht um (+ Akk.)|it is about|йдеться про|konusu olmak|يتعلق الأمر بـ|речь идёт о
+ein Gespräch führen|have a conversation|вести розмову|görüşme yapmak|إجراء محادثة|вести беседу
+sich interessieren für (+ Akk.)|be interested in|цікавитися|ilgilenmek|الاهتمام بـ|интересоваться
+investieren in (+ Akk.)|invest in|інвестувати в|yatırım yapmak|الاستثمار في|инвестировать в
+stattfinden|take place|відбуватися|gerçekleşmek|حدوث|состояться
+etw. vermitteln|convey; mediate; teach|передавати; бути посередником|aktarmak; aracılık etmek|نقل؛ توسط؛ تعليم|передавать; быть посредником
+die Voraussetzung, -en|prerequisite|передумова|ön koşul|شرط مسبق|предпосылка
+die Webseite, -n|web page|вебсторінка|web sayfası|صفحة ويب|веб-страница
+das Ergebnisprotokoll, -e|minutes recording decisions|протокол результатів|karar tutanağı|محضر نتائج الاجتماع|протокол результатов
+die Besprechung, -en|meeting; discussion|нарада; обговорення|toplantı; görüşme|اجتماع؛ مناقشة|совещание; обсуждение
+die Teamsitzung, -en|team meeting|засідання команди|ekip toplantısı|اجتماع الفريق|заседание команды
+etw. zusammenfassen|summarise something|підсумовувати щось|bir şeyi özetlemek|تلخيص شيء|подытоживать что-либо
+der Beschluss, ⸚e|resolution; decision|ухвала; рішення|karar|قرار|постановление; решение
+die Entscheidung, -en|decision|рішення|karar|قرار|решение
+die Vereinbarung, -en|agreement|домовленість|anlaşma|اتفاق|договорённость
+die Tagesordnung, -en|agenda|порядок денний|gündem|جدول الأعمال|повестка дня
+das Stichwort, ⸚er|keyword; cue|ключове слово|anahtar kelime|كلمة مفتاحية|ключевое слово
+etw. dokumentieren|document something|документувати щось|bir şeyi belgelemek|توثيق شيء|документировать что-либо
+etw. protokollieren|record in minutes|протоколювати|tutanağa geçirmek|تدوين في محضر|протоколировать
+die Regel, -n|rule|правило|kural|قاعدة|правило
+in der Regel|usually|зазвичай|genellikle|عادةً|как правило
+der Teilnehmer, –|participant (male)|учасник|katılımcı (erkek)|مشارك|участник
+die Teilnehmerin, -nen|participant (female)|учасниця|katılımcı (kadın)|مشاركة|участница
+etw. vorschlagen|suggest something|пропонувати щось|bir şey önermek|اقتراح شيء|предлагать что-либо
+der Zweifel, –|doubt|сумнів|şüphe|شك|сомнение
+etw. schaffen|manage; accomplish something|впоратися; здійснити|başarmak|إنجاز شيء|справиться; осуществить
+sich etw. merken|remember something|запам'ятати щось|bir şeyi akılda tutmak|تذكّر شيء|запомнить что-либо
+die Pünktlichkeit (Sg.)|punctuality|пунктуальність|dakiklik|الالتزام بالمواعيد|пунктуальность
+die Begrüßung, -en|greeting|привітання|selamlama|تحية|приветствие
+der Feierabend, -e|end of the working day|кінець робочого дня|mesai bitimi|نهاية يوم العمل|конец рабочего дня
+aufregend|exciting|захопливий|heyecan verici|مثير|захватывающий
+der Erfolg, -e|success|успіх|başarı|نجاح|успех
+nützlich|useful|корисний|yararlı|مفيد|полезный
+der Berufsverkehr (Sg.)|rush-hour traffic|рух у години пік|işe gidiş geliş trafiği|حركة المرور في ساعات الذروة|движение в часы пик
+üblich|usual; customary|звичайний|alışılmış|معتاد|обычный
+lächeln|smile|усміхатися|gülümsemek|الابتسام|улыбаться
+erwünscht|desired; welcome|бажаний|istenen|مرغوب فيه|желательный
+beliebt|popular; well-liked|популярний; улюблений|sevilen; popüler|محبوب؛ شائع|популярный; любимый
+im Allgemeinen|generally|загалом|genel olarak|بوجه عام|в общем
+der Vorgesetzte, -n|superior (male)|керівник|amir (erkek)|رئيس في العمل|руководитель
+die Vorgesetzte, -n|superior (female)|керівниця|amir (kadın)|رئيسة في العمل|руководительница
+sich verabschieden (von) (+ Dat.)|say goodbye (to)|прощатися (з)|vedalaşmak|توديع|прощаться (с)
+die Abteilung, -en|department|відділ|bölüm|قسم|отдел
+der Arbeitgeber, –|employer (male)|роботодавець|işveren (erkek)|صاحب عمل|работодатель
+die Arbeitgeberin, -nen|employer (female)|роботодавиця|işveren (kadın)|صاحبة عمل|работодательница
+das Asylverfahren, –|asylum procedure|процедура надання притулку|iltica süreci|إجراءات اللجوء|процедура предоставления убежища
+die Ausbildung, -en|vocational training|професійне навчання|mesleki eğitim|تدريب مهني|профессиональное обучение
+auffallen|stand out; be noticed|привертати увагу|dikkat çekmek|لفت الانتباه|бросаться в глаза
+(eine Prüfung) bestehen|pass (an exam)|скласти (іспит)|(sınavı) geçmek|اجتياز امتحان|сдать (экзамен)
+das Berufsinformationszentrum (BIZ)|career information centre|центр професійної інформації|meslek bilgi merkezi|مركز معلومات مهنية|центр профессиональной информации
+der Betrieb, -e|company; workplace|підприємство|işletme|منشأة|предприятие
+sich bewerben|apply for a job|подавати заяву на роботу|iş başvurusu yapmak|التقدم لوظيفة|подавать заявление на работу
+jdn. einstellen|hire someone|наймати когось|birini işe almak|توظيف شخص|нанимать кого-либо
+das E-Learning (Sg.)|e-learning|електронне навчання|e-öğrenme|تعلم إلكتروني|электронное обучение
+der E-Learning-Kurs, -e|e-learning course|електронний курс|e-öğrenme kursu|دورة تعلم إلكتروني|электронный курс
+der Facharbeiter, –|skilled worker (male)|кваліфікований робітник|vasıflı işçi (erkek)|عامل ماهر|квалифицированный рабочий
+die Facharbeiterin, -nen|skilled worker (female)|кваліфікована робітниця|vasıflı işçi (kadın)|عاملة ماهرة|квалифицированная работница
+der Gabelstapler, –|forklift truck|вилковий навантажувач|forklift|رافعة شوكية|вилочный погрузчик
+die Geschäftsführung, -en|company management|керівництво підприємства|şirket yönetimi|إدارة الشركة|руководство предприятия
+sich informieren|get information|дізнаватися|bilgi edinmek|الحصول على معلومات|узнавать
+das Lager, –|warehouse|склад|depo|مستودع|склад
+die Lagerlogistik (Sg.)|warehouse logistics|складська логістика|depo lojistiği|لوجستيات المستودعات|складская логистика
+der Mitarbeiter, –|employee (male)|співробітник|çalışan (erkek)|موظف|сотрудник
+die Mitarbeiterin, -nen|employee (female)|співробітниця|çalışan (kadın)|موظفة|сотрудница
+jdm. etw. raten|advise someone to do something|радити комусь щось|birine bir şey tavsiye etmek|نصح شخص بشيء|советовать кому-либо что-либо
+der Schulabschluss, ⸚e|school-leaving qualification|документ про закінчення школи|okul bitirme diploması|شهادة إتمام الدراسة|документ об окончании школы
+steigen|rise; increase|зростати|artmak|ارتفاع|расти
+teilnehmen an (+ Dat.)|take part in|брати участь у|katılmak|المشاركة في|участвовать в
+der Umsatz, ⸚e|turnover; revenue|оборот; виторг|ciro|حجم المبيعات|оборот; выручка
+die Umschulung, -en|retraining|перекваліфікація|yeniden mesleki eğitim|إعادة تأهيل مهني|переквалификация
+wahrscheinlich|probably; likely|ймовірно; ймовірний|muhtemelen; olası|على الأرجح؛ محتمل|вероятно; вероятный
+die Weiterbildung, -en|further training|підвищення кваліфікації|ileri mesleki eğitim|تدريب إضافي|повышение квалификации
+der Antrag, ⸚e|application; request|заява|başvuru|طلب|заявление
+einen Antrag stellen|submit an application|подати заяву|başvuru yapmak|تقديم طلب|подать заявление
+die Aufenthaltsgenehmigung, -en|residence permit|дозвіл на проживання|oturma izni|تصريح إقامة|разрешение на проживание
+aufwachsen|grow up|зростати; дорослішати|büyümek|النشأة|расти; взрослеть
+der Berater, –|advisor (male)|консультант|danışman (erkek)|مستشار|консультант
+die Beraterin, -nen|advisor (female)|консультантка|danışman (kadın)|مستشارة|консультантка
+jdn. beschäftigen|employ someone|надавати комусь роботу|birini istihdam etmek|تشغيل شخص|предоставлять кому-либо работу
+der Businessplan, ⸚e|business plan|бізнес-план|iş planı|خطة عمل|бизнес-план
+das Einkommen, –|income|дохід|gelir|دخل|доход
+die Entscheidung, -en|decision|рішення|karar|قرار|решение
+eine Entscheidung treffen|make a decision|ухвалити рішення|karar vermek|اتخاذ قرار|принять решение
+die Existenzgründung, -en|starting a business|заснування власної справи|iş kurma|تأسيس مشروع|основание собственного дела
+die Fortbildung, -en|professional development course|підвищення професійної кваліфікації|mesleki gelişim eğitimi|تدريب مهني تكميلي|повышение профессиональной квалификации
+eine Fortbildung machen|take a professional development course|проходити підвищення кваліфікації|mesleki gelişim eğitimi almak|الالتحاق بتدريب مهني تكميلي|проходить повышение квалификации
+(ein Unternehmen) gründen|found (a company)|заснувати (підприємство)|(şirket) kurmak|تأسيس شركة|основать (предприятие)
+einen Kredit bewilligen|approve a loan|схвалити кредит|krediyi onaylamak|الموافقة على قرض|одобрить кредит
+der Küchenhelfer, –|kitchen assistant (male)|помічник на кухні|mutfak yardımcısı (erkek)|مساعد مطبخ|помощник на кухне
+die Küchenhelferin, -nen|kitchen assistant (female)|помічниця на кухні|mutfak yardımcısı (kadın)|مساعدة مطبخ|помощница на кухне
+sich selbstständig machen|become self-employed|стати самозайнятим|kendi işini kurmak|العمل لحساب النفس|стать самозанятым
+die Selbstständigkeit (Sg.)|self-employment; independence|самозайнятість; самостійність|serbest çalışma; bağımsızlık|عمل حر؛ استقلالية|самозанятость; самостоятельность
+überlegen|think over|обмірковувати|düşünüp taşınmak|التفكير مليًا|обдумывать
+Verantwortung tragen für (+ Akk.)|bear responsibility for|нести відповідальність за|sorumluluk taşımak|تحمل مسؤولية|нести ответственность за
+etw. anerkennen lassen|have something officially recognised|домогтися визнання чогось|bir şeyi resmen tanıtmak|الحصول على اعتراف رسمي بشيء|добиться признания чего-либо
+der Berufsabschluss, ⸚e|vocational qualification|професійна кваліфікація|mesleki yeterlilik|مؤهل مهني|профессиональная квалификация
+die Berufsausbildung, -en|vocational training|професійна освіта|mesleki eğitim|تدريب مهني|профессиональное образование
+etw. beschließen|decide on something|вирішити щось|bir şeye karar vermek|اتخاذ قرار بشأن شيء|решить что-либо
+das Zeugnis, -se|certificate; report|свідоцтво; табель|belge; karne|شهادة؛ تقرير دراسي|свидетельство; табель
+die Anerkennung, -en|recognition|визнання|tanınma|اعتراف|признание
+das Anerkennungsverfahren, –|recognition procedure|процедура визнання|denklik süreci|إجراءات الاعتراف بالمؤهلات|процедура признания
+die Arbeitserlaubnis, -se|work permit|дозвіл на роботу|çalışma izni|تصريح عمل|разрешение на работу
+die Fachkraft, ⸚e|qualified professional|кваліфікований фахівець|uzman çalışan|عامل مؤهل|квалифицированный специалист
+die Kompetenz, -en|competence; skill|компетентність; навичка|yetkinlik|كفاءة|компетентность; навык
+Kosten übernehmen|cover costs|покривати витрати|masrafları karşılamak|تحمل التكاليف|покрывать расходы
+der Nachweis, -e|proof; evidence|підтвердження; доказ|kanıt; belge|إثبات|подтверждение; доказательство
+das Praktikum, Praktika|internship|стажування|staj|تدريب عملي|стажировка
+die Qualifikation, -en|qualification|кваліфікація|nitelik|مؤهل|квалификация
+reglementiert|regulated|регульований|düzenlemeye tabi|منظّم قانونيًا|регулируемый
+die Unterlage, -n|document|документ|belge|مستند|документ
+etw. vergleichen mit (+ Dat.)|compare something with|порівнювати щось із|bir şeyi bir şeyle karşılaştırmak|مقارنة شيء بشيء|сравнивать что-либо с
+der Ansprechpartner, –|contact person (male)|контактна особа (чоловік)|irtibat kişisi (erkek)|مسؤول اتصال|контактное лицо (мужчина)
+die Ansprechpartnerin, -nen|contact person (female)|контактна особа (жінка)|irtibat kişisi (kadın)|مسؤولة اتصال|контактное лицо (женщина)
+der Aushang, ⸚e|posted notice|оголошення на стенді|duyuru|إعلان معلّق|объявление на стенде
+das Bewerbungsschreiben, –|cover letter|мотиваційний лист|ön yazı|خطاب طلب وظيفة|сопроводительное письмо
+das Bewerbungsverfahren, –|application process|процедура відбору кандидатів|işe başvuru süreci|إجراءات التوظيف|процедура отбора кандидатов
+der Eindruck, ⸚e|impression|враження|izlenim|انطباع|впечатление
+die Elektrofirma, -firmen|electrical company|електротехнічна фірма|elektrik firması|شركة كهرباء|электротехническая фирма
+erwarten|expect|очікувати|beklemek|توقّع|ожидать
+das Fachpersonal (Sg.)|qualified staff|кваліфікований персонал|uzman personel|طاقم متخصص|квалифицированный персонал
+fehlerfrei|error-free|безпомилковий|hatasız|خالٍ من الأخطاء|безошибочный
+die Initiativbewerbung, -en|unsolicited job application|ініціативна заявка на роботу|kendiliğinden iş başvurusu|طلب توظيف دون إعلان مسبق|инициативная заявка на работу
+die Installateurfirma, -firmen|installation company|монтажна фірма|tesisat firması|شركة تركيب|монтажная фирма
+die Konkurrenz (Sg.)|competition|конкуренція|rekabet|منافسة|конкуренция
+der Leiharbeiter, –|temporary agency worker (male)|працівник через агентство|geçici işçi (erkek)|عامل عن طريق وكالة توظيف مؤقت|работник через агентство
+die Leiharbeiterin, -nen|temporary agency worker (female)|працівниця через агентство|geçici işçi (kadın)|عاملة عن طريق وكالة توظيف مؤقت|работница через агентство
+das Leitbild, -er|mission statement|концепція; місія|misyon bildirgesi|بيان المبادئ|концепция; миссия
+der Stand der Dinge|current state of affairs|поточний стан справ|mevcut durum|الوضع الراهن|текущее положение дел
+einen Termin bestätigen|confirm an appointment|підтвердити зустріч|randevuyu onaylamak|تأكيد موعد|подтвердить встречу
+die Unterlage, -n|document|документ|belge|مستند|документ
+die Wartezeit, -en|waiting time|час очікування|bekleme süresi|مدة الانتظار|время ожидания
+die Zeitarbeitsfirma, -firmen|temporary employment agency|агентство тимчасової зайнятості|geçici istihdam bürosu|وكالة توظيف مؤقت|агентство временной занятости
+zukünftig|future; in future|майбутній; надалі|gelecekteki; gelecekte|مستقبلي؛ مستقبلًا|будущий; впредь
+die Arbeitskraft, ⸚e|worker; labour power|працівник; робоча сила|iş gücü; çalışan|عامل؛ قوة عاملة|работник; рабочая сила
+das Arbeitsverhältnis, -se|employment relationship|трудові відносини|iş ilişkisi|علاقة عمل|трудовые отношения
+ausleihen|lend; borrow|позичати|ödünç vermek; almak|إعارة؛ استعارة|одалживать; брать взаймы
+die Berufsberatung, -en|career counselling|профорієнтаційна консультація|meslek danışmanlığı|إرشاد مهني|профориентационная консультация
+die Berufserfahrung, -en|professional experience|професійний досвід|mesleki deneyim|خبرة مهنية|профессиональный опыт
+beschäftigen|employ; occupy|наймати; займати|istihdam etmek; meşgul etmek|توظيف؛ إشغال|нанимать; занимать
+die Beschäftigung (Sg.)|employment; occupation|зайнятість|istihdam; uğraş|عمل؛ انشغال|занятость
+der Betrieb, -e|company; workplace|підприємство|işletme|منشأة|предприятие
+die Genehmigung, -en|permission; permit|дозвіл|izin|تصريح|разрешение
+die Leiharbeit (Sg.)|temporary agency work|робота через агентство|geçici işçilik|عمل عبر وكالة توظيف مؤقت|работа через агентство
+der Leiharbeiter, –|temporary agency worker (male)|працівник через агентство|geçici işçi (erkek)|عامل عن طريق وكالة توظيف مؤقت|работник через агентство
+die Leiharbeiterin, -nen|temporary agency worker (female)|працівниця через агентство|geçici işçi (kadın)|عاملة عن طريق وكالة توظيف مؤقت|работница через агентство
+staatlich|state; governmental|державний|devlete ait|حكومي|государственный
+die Tätigkeit, -en|activity; work|діяльність|faaliyet|نشاط|деятельность
+einen Termin vereinbaren|arrange an appointment|домовитися про зустріч|randevu ayarlamak|تحديد موعد|договориться о встрече
+verleihen|lend; award|позичати; присуджувати|ödünç vermek; ödüllendirmek|إعارة؛ منح|одалживать; присуждать
+die Vermittlung, -en|placement; mediation|працевлаштування; посередництво|işe yerleştirme; aracılık|توظيف؛ وساطة|трудоустройство; посредничество
+die Vermittlungsgebühr, -en|placement fee|плата за посередництво|aracılık ücreti|رسوم الوساطة|плата за посредничество
+der Agraringenieur, -e|agricultural engineer (male)|агроінженер|ziraat mühendisi (erkek)|مهندس زراعي|агроинженер
+die Agraringenieurin, -nen|agricultural engineer (female)|агроінженерка|ziraat mühendisi (kadın)|مهندسة زراعية|агроинженер (женщина)
+der Arbeitseinsatz, ⸚e|work assignment; effort|робоче завдання; зусилля|iş görevi; çaba|مهمة عمل؛ جهد|рабочее задание; усилия
+der Bereich, -e|area; field|сфера; галузь|alan|مجال|сфера; область
+die Bereitschaft (Sg.)|willingness; readiness|готовність|isteklilik; hazır olma|استعداد|готовность
+der Einsatzort, -e|place of assignment|місце виконання роботи|görev yeri|موقع العمل|место выполнения работы
+examiniert|qualified by examination|дипломований|sınavla yeterlilik kazanmış|حاصل على تأهيل بامتحان|дипломированный
+das Familienunternehmen, –|family business|сімейне підприємство|aile şirketi|شركة عائلية|семейное предприятие
+der Informatiker, –|IT specialist (male)|фахівець з інформатики|bilişim uzmanı (erkek)|أخصائي معلوماتية|специалист по информатике
+die Informatikerin, -nen|IT specialist (female)|фахівчиня з інформатики|bilişim uzmanı (kadın)|أخصائية معلوماتية|специалистка по информатике
+der Ingenieur, -e|engineer (male)|інженер|mühendis (erkek)|مهندس|инженер
+die Ingenieurin, -nen|engineer (female)|інженерка|mühendis (kadın)|مهندسة|инженер (женщина)
+innovativ|innovative|інноваційний|yenilikçi|مبتكر|инновационный
+die Karrierechance, -n|career opportunity|кар'єрна можливість|kariyer fırsatı|فرصة مهنية|карьерная возможность
+die Kommunikationsfähigkeit, -en|communication skills|комунікативність|iletişim becerisi|مهارات التواصل|коммуникабельность
+der Kundenservice (Sg.)|customer service|обслуговування клієнтів|müşteri hizmetleri|خدمة العملاء|обслуживание клиентов
+die Pflegekraft, ⸚e|care worker|працівник з догляду|bakım görevlisi|عامل رعاية|работник по уходу
+der Pflegeservice (Sg.)|care service|служба догляду|bakım hizmeti|خدمة الرعاية|служба ухода
+die Sicherheitsmitarbeiter, –|security employee (male)|працівник охорони|güvenlik görevlisi (erkek)|موظف أمن|сотрудник охраны
+die Sicherheitsmitarbeiterin, -nen|security employee (female)|працівниця охорони|güvenlik görevlisi (kadın)|موظفة أمن|сотрудница охраны
+der Teamgeist (Sg.)|team spirit|командний дух|takım ruhu|روح الفريق|командный дух
+die Verantwortung (Sg.)|responsibility|відповідальність|sorumluluk|مسؤولية|ответственность
+der Verkäufer, –|salesperson (male)|продавець|satıcı (erkek)|بائع|продавец
+die Verkäuferin, -nen|salesperson (female)|продавчиня|satıcı (kadın)|بائعة|продавщица
+die Verstärkung, -en|reinforcement; extra staff|підсилення; додатковий персонал|takviye|تعزيز؛ موظفون إضافيون|усиление; дополнительный персонал
+die Zukunftsperspektive, -n|future prospect|перспектива на майбутнє|gelecek beklentisi|آفاق مستقبلية|перспектива на будущее
+die Zusammenarbeit (Sg.)|cooperation|співпраця|iş birliği|تعاون|сотрудничество
+zuständig|responsible; in charge|відповідальний; уповноважений|sorumlu; yetkili|مختص؛ مسؤول|ответственный; уполномоченный
+das Bauvorhaben, –|construction project|будівельний проєкт|inşaat projesi|مشروع بناء|строительный проект
+die Berufsausbildung, -en|vocational training|професійна освіта|mesleki eğitim|تدريب مهني|профессиональное образование
+der Einsatz, ⸚e|assignment; deployment|завдання; залучення|görev; görevlendirme|مهمة؛ تكليف|задание; привлечение
+das Einverständnis, -se|consent|згода|rıza|موافقة|согласие
+der Fachinformatiker, –|IT technician (male)|фахівець з ІТ|bilişim teknisyeni (erkek)|فني تقنية معلومات|специалист по ИТ
+die Fachinformatikerin, -nen|IT technician (female)|фахівчиня з ІТ|bilişim teknisyeni (kadın)|فنية تقنية معلومات|специалистка по ИТ
+die Krankheitsvertretung, -en|cover for sick leave|заміна на час хвороби|hastalık izni için vekâlet|تغطية غياب بسبب المرض|замена на время болезни
+der Realschulabschluss, ⸚e|intermediate school-leaving certificate|свідоцтво про закінчення реальної школи|Realschule bitirme diploması|شهادة إتمام المدرسة المتوسطة الألمانية|свидетельство об окончании реальной школы
+die Urlaubsvertretung, -en|holiday cover|заміна на час відпустки|izin döneminde vekâlet|تغطية غياب أثناء الإجازة|замена на время отпуска
+der Zeitraum, ⸚e|period of time|період часу|zaman aralığı|فترة زمنية|период времени
